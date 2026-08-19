@@ -1,0 +1,7 @@
+- Documented customer discovery process for an AI-powered educational video generation platform.
+- Defined user pain points and success metrics to guide MVP scope.
+- Conducted competitive analysis of AI-powered educational platforms to identify differentiation opportunities and define product positioning.
+- Authored Product Requirements Documentation (PRD) for an AI-powered educational video generation platform, defining user problems, objectives, and measurable success metrics.
+- Defined functional requirements and product workflows for an AI-powered educational video generation platform, enabling structured engineering execution.
+- Designed end-to-end system architecture for an AI-powered educational video generation platform, defining modular workflows and component interactions.
+- Designed a Retrieval-Augmented Generation (RAG) architecture for an AI-powered educational video platform, integrating retrieval workflows to improve response accuracy and reduce hallucinations.
