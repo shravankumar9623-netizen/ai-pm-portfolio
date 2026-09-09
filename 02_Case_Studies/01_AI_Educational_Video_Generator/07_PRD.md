@@ -2,7 +2,7 @@
 
 ## Product
 
-The official product name is **AI Educational Video Generator**. [Source: U01]
+The official product name is **AI Video Solution Generator**. [Source: U01]
 
 ## Problem Statement
 

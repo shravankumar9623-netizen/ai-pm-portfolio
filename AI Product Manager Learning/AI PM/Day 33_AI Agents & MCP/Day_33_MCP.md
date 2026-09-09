@@ -1,221 +1,31 @@
-\# Day 33 - MCP (Model Context Protocol)
+# Day 33 — Model Context Protocol
 
+## Objective
 
+Understand MCP as a standard connection between an AI host and external tools or contextual resources.
 
-\## What is MCP?
+MCP can expose tools, resources and prompts through a defined client-server protocol. It can reduce custom integration work, but it does not guarantee factuality, security or lower hallucination by itself. Product quality still depends on source authority, permissions, tool behaviour and evaluation.
 
+## Flagship application
 
+Potential servers could expose approved question-bank search, solution retrieval and feedback records. The host would decide when to request a resource or call a tool. Sensitive write operations should be narrowly scoped and require approval.
 
-Model Context Protocol (MCP) is a standard that allows AI models to communicate with external tools.
+## Security decisions
 
+- Use least-privilege tools and explicit authorization.
+- Separate read and write capabilities.
+- Validate tool inputs and outputs.
+- Log tool identity, version, result and failure without leaking confidential content.
+- Provide timeout, retry and manual fallback behaviour.
 
+## Exercise and model answer
 
-Instead of giving an AI model only a prompt, MCP allows the model to access:
+Scenario: an MCP server exposes `search_questions`, `get_solution` and `publish_video`. Give an early agent the first two tools. Withhold `publish_video` until identity, approval, audit and rollback are proven. MCP standardizes access; it does not decide product policy.
 
+## Interview questions and answers
 
+MCP separates hosts, clients and servers; resources provide context; tools perform actions; permission limits blast radius; and evaluation must include tool selection, argument correctness, result use and end-user outcome.
 
-\- Databases
+## Reflection
 
-\- APIs
-
-\- Documents
-
-\- Files
-
-\- Development environments
-
-\- Third-party applications
-
-
-
-\---
-
-
-
-\## Traditional AI Workflow
-
-
-
-User → Prompt → LLM → Response
-
-
-
-Example:
-
-
-
-Question:
-
-"How many students completed the course?"
-
-
-
-The AI cannot access the database.
-
-
-
-\---
-
-
-
-\## MCP Workflow
-
-
-
-User → LLM → MCP → Database → LLM → Response
-
-
-
-Example:
-
-
-
-Question:
-
-"How many students completed the course?"
-
-
-
-The AI calls the database through MCP.
-
-
-
-The database returns:
-
-
-
-1,250 students.
-
-
-
-The AI generates the answer.
-
-
-
-\---
-
-
-
-\## MCP Components
-
-
-
-\### Host
-
-
-
-The application using AI.
-
-
-
-Examples:
-
-
-
-\- Cursor
-
-\- Claude
-
-\- ChatGPT
-
-
-
-\---
-
-
-
-\### Client
-
-
-
-The AI model.
-
-
-
-Examples:
-
-
-
-\- GPT
-
-\- Claude
-
-\- Gemini
-
-
-
-\---
-
-
-
-\### Server
-
-
-
-The external system.
-
-
-
-Examples:
-
-
-
-\- GitHub
-
-\- PostgreSQL
-
-\- Notion
-
-
-
-\---
-
-
-
-\## MCP in Your AI Educational Video Generator
-
-
-
-Potential MCP integrations:
-
-
-
-\- Question Bank
-
-\- Solution Repository
-
-\- Gemini API
-
-\- ElevenLabs
-
-\- Faculty Feedback
-
-\- Learning Analytics
-
-
-
-\---
-
-
-
-\## Product Management Insight
-
-
-
-MCP reduces hallucinations.
-
-
-
-Instead of generating information from memory, the model retrieves real information from external systems.
-
-
-
-This improves:
-
-
-
-\- Accuracy
-
-\- Reliability
-
-\- Context awareness
+The PM decision is not simply whether to “use MCP.” It is which capability is exposed, to whom, with what evidence, control and fallback.

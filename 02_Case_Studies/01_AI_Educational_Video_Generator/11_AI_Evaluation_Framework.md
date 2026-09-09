@@ -2,7 +2,7 @@
 
 ## Evaluation Objective
 
-The evaluation objective is to assess the quality of outputs produced by the AI Educational Video Generator. [Source: S11]
+The evaluation objective is to assess the quality of outputs produced by the AI Video Solution Generator. [Source: S11]
 
 ## Golden Dataset
 

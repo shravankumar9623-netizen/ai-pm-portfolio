@@ -1,86 +1,86 @@
-\# AI Product Metrics Framework
+# AI Product Metrics Framework
 
 
 
-\## 1. What Are Product Metrics?
+## 1. What Are Product Metrics?
 
 
 
-\## 2. Why Metrics Matter
+## 2. Why Metrics Matter
 
 
 
-\## 3. Goals vs Metrics vs Targets
+## 3. Goals vs Metrics vs Targets
 
 
 
-\## 4. North Star Metric
+## 4. North Star Metric
 
 
 
-\## 5. Metric Categories
+## 5. Metric Categories
 
 
 
-\### Acquisition
+### Acquisition
 
 
 
-\### Activation
+### Activation
 
 
 
-\### Engagement
+### Engagement
 
 
 
-\### Retention
+### Retention
 
 
 
-\### Quality
+### Quality
 
 
 
-\### Operational
+### Operational
 
 
 
-\### Business
+### Business
 
 
 
-\### Guardrails
+### Guardrails
 
 
 
-\## 6. AI Product Metrics
+## 6. AI Product Metrics
 
 
 
-\## 7. Vanity Metrics
+## 7. Vanity Metrics
 
 
 
-\## 8. Metrics Tree
+## 8. Metrics Tree
 
 
 
-\## 9. Metric → Decision Mapping
+## 9. Metric → Decision Mapping
 
 
 
-\## 10. Example: AI Learning Assistant
+## 10. Example: AI Learning Assistant
 
 
 
-\## 11. Common PM Mistakes
+## 11. Common PM Mistakes
 
 
 
-\## 12. Interview Questions
+## 12. Interview Questions
 
 
 
-\## 13. Key Takeaways
+## 13. Key Takeaways
 

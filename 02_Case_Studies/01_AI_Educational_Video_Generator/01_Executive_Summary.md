@@ -1,6 +1,6 @@
 # Executive Summary
 
-The **AI Educational Video Generator** is the official name for the product previously described as AI Video Platform, NGMC Video Solution, and Automated Video Solution Generator. [Source: U01, S01, S13]
+The **AI Video Solution Generator** is the official name for the product previously described as AI Video Platform, NGMC Video Solution, and Automated Video Solution Generator. [Source: U01, S01, S13]
 
 The product addresses a workflow in which educators and academic teams prepare solutions, scripts, narration, annotations, and rendered videos through multiple manual steps. [Source: S04, S13]
 

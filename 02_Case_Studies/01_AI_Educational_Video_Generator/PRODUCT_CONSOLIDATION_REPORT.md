@@ -2,7 +2,7 @@
 
 ## Outcome
 
-Eighteen source artifacts describing AI Video Platform, NGMC Video Solution, and Automated Video Solution Generator were synthesized into one flagship case study named **AI Educational Video Generator**. [Source: U01, S01–S18]
+Eighteen source artifacts describing AI Video Platform, NGMC Video Solution, and Automated Video Solution Generator were synthesized into one flagship case study named **AI Video Solution Generator**. [Source: U01, S01–S18]
 
 Fourteen numbered case-study documents and one source map were created without editing the immutable source artifacts. [Source: U01, S01–S18]
 

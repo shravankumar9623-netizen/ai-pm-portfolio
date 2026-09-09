@@ -1,6 +1,6 @@
 # Experimentation
 
-The experimentation objective is to compare product approaches for the AI Educational Video Generator. [Source: S14]
+The experimentation objective is to compare product approaches for the AI Video Solution Generator. [Source: S14]
 
 ## Experiment 1: Script Model
 

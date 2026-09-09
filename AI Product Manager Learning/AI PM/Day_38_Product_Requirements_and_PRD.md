@@ -1,148 +1,39 @@
-\# Day 38 — Product Requirements \& PRD
+# Day 38 — Product Requirements and PRD
 
+## Objective
 
+Translate a prioritized opportunity into unambiguous, testable product behaviour.
 
-\## Theme
+## MVP capability
 
+AI-assisted, source-grounded educational script drafting with faculty review.
 
+### Functional requirements
 
-From Prioritization to Product Requirements
+- Accept an approved question and solution source.
+- Validate source identity before generation.
+- Display source and draft together.
+- Allow edit, reject and approve.
+- Require a categorized reason for rejection.
+- Prevent publishing before approval.
+- Record model, prompt, source and reviewer decision versions.
 
+### Non-functional and AI requirements
 
+The workflow must protect access, preserve user input after recoverable failure, support keyboard navigation and log auditable decisions. Generated claims must remain grounded in approved material. Unsupported inputs must fail clearly. Latency and cost must be observable; evaluation must cover correctness, groundedness, clarity, safety and human acceptance.
 
-\## AI PM Concept
+### Non-goals
 
+Autonomous publication, open-web generation, replacing subject experts and claiming learner-outcome improvement.
 
+## Exercise and model answer
 
-AI Product Requirements
+Vague requirement: “The AI should be accurate.” Improved requirement: “On the versioned evaluation set, every release must meet the agreed correctness and groundedness thresholds, contain no unresolved severe safety failure and remain subject to faculty approval.”
 
+## Interview questions and answers
 
+Good requirements are necessary, clear, testable and traceable. Functional requirements describe behaviour; non-functional requirements describe constraints. AI requirements cover evidence, uncertainty and evaluation. Non-goals protect scope. Acceptance criteria define observable completion.
 
-\## PM Concept
+## Reflection
 
-
-
-Functional vs Non-Functional Requirements
-
-
-
-\## Coach Lesson
-
-
-
-A requirement should remove ambiguity.
-
-
-
-\## Microsoft Learning
-
-
-
-\[Add your Microsoft Learn resource]
-
-
-
-\## Reading
-
-
-
-\[Add the PRD reading resource]
-
-
-
-\## Key Concepts
-
-
-
-\### Functional Requirements
-
-
-
-What the product does.
-
-
-
-\### Non-Functional Requirements
-
-
-
-How well or under what constraints it performs.
-
-
-
-\### AI-Specific Requirements
-
-
-
-\- Grounding
-
-\- Quality
-
-\- Evaluation
-
-\- Human review
-
-\- Failure handling
-
-\- Traceability
-
-\- Cost
-
-\- Latency
-
-\- Privacy
-
-\- Safety
-
-
-
-\## Flagship Application
-
-
-
-AI Educational Video Generator
-
-
-
-\## MVP Capability
-
-
-
-AI-Assisted Educational Script Generation
-
-
-
-\## Key Learning
-
-
-
-A feature describes an idea. A good requirement describes the expected product behavior and removes ambiguity for the team.
-
-
-
-\## Interview Question
-
-
-
-What makes a good product requirement?
-
-
-
-\## My Answer
-
-
-
-\[Write your answer]
-
-
-
-\## Reflection
-
-
-
-What requirement in my AI product was previously too vague?
-
-
-
-\[Write your answer]
-
+The previously vague requirement was “generate high-quality scripts.” It now needs a rubric, threshold, source constraint, failure behaviour and reviewer decision.

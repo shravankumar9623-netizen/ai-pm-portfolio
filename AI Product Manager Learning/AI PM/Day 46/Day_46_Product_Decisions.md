@@ -1,12 +1,12 @@
-\# Day 46 — Product Decisions
+# Day 46 — Product Decisions
 
 
 
-\## Decision 1 — Human Review
+## Decision 1 — Human Review
 
 
 
-\### Decision
+### Decision
 
 
 
@@ -14,7 +14,7 @@ Keep faculty review in the workflow.
 
 
 
-\### Why
+### Why
 
 
 
@@ -22,7 +22,7 @@ Academic content requires subject-matter oversight.
 
 
 
-\### Trade-off
+### Trade-off
 
 
 
@@ -30,7 +30,7 @@ Less automation.
 
 
 
-\### Benefit
+### Benefit
 
 
 
@@ -38,15 +38,15 @@ Greater quality control and trust.
 
 
 
-\---
+---
 
 
 
-\## Decision 2 — Higher-Volume Processing
+## Decision 2 — Higher-Volume Processing
 
 
 
-\### Decision
+### Decision
 
 
 
@@ -54,7 +54,7 @@ Support batchhigh-volume content processing.
 
 
 
-\### Why
+### Why
 
 
 
@@ -62,7 +62,7 @@ The user problem includes limited production capacity.
 
 
 
-\### Trade-off
+### Trade-off
 
 
 
@@ -70,7 +70,7 @@ Higher processing complexity and potentially higher cost.
 
 
 
-\### Benefit
+### Benefit
 
 
 
@@ -78,15 +78,15 @@ Higher content-production capacity.
 
 
 
-\---
+---
 
 
 
-\## Decision 3 — Solution Matching
+## Decision 3 — Solution Matching
 
 
 
-\### Decision
+### Decision
 
 
 
@@ -94,7 +94,7 @@ Include question-to-solution matching.
 
 
 
-\### Why
+### Why
 
 
 
@@ -102,7 +102,7 @@ The correct solution must correspond to the correct question.
 
 
 
-\### Trade-off
+### Trade-off
 
 
 
@@ -110,7 +110,7 @@ Additional processing logic.
 
 
 
-\### Benefit
+### Benefit
 
 
 
@@ -118,15 +118,15 @@ Better workflow consistency.
 
 
 
-\---
+---
 
 
 
-\## Decision 4 — Regeneration
+## Decision 4 — Regeneration
 
 
 
-\### Decision
+### Decision
 
 
 
@@ -134,7 +134,7 @@ Allow users to regeneraterefine AI output.
 
 
 
-\### Why
+### Why
 
 
 
@@ -142,7 +142,7 @@ AI output may require correction or refinement.
 
 
 
-\### Trade-off
+### Trade-off
 
 
 
@@ -150,7 +150,7 @@ Additional AI inference cost.
 
 
 
-\### Benefit
+### Benefit
 
 
 
@@ -158,15 +158,15 @@ Greater user control.
 
 
 
-\---
+---
 
 
 
-\## Decision 5 — Faculty Feedback
+## Decision 5 — Faculty Feedback
 
 
 
-\### Decision
+### Decision
 
 
 
@@ -174,7 +174,7 @@ Use faculty feedback to improve the product.
 
 
 
-\### Why
+### Why
 
 
 
@@ -182,7 +182,7 @@ Faculty are the domain experts.
 
 
 
-\### Trade-off
+### Trade-off
 
 
 
@@ -190,7 +190,7 @@ Human feedback remains part of the product loop.
 
 
 
-\### Benefit
+### Benefit
 
 
 
@@ -198,11 +198,11 @@ Continuous product and quality improvement.
 
 
 
-\---
+---
 
 
 
-\## Rejected Alternative
+## Rejected Alternative
 
 
 
@@ -210,23 +210,23 @@ Fully autonomous generation and publishing without faculty review.
 
 
 
-\### Reasons
+### Reasons
 
 
 
-\- Academic accuracy risk
+- Academic accuracy risk
 
-\- Incorrect solutions
+- Incorrect solutions
 
-\- Contextual errors
+- Contextual errors
 
-\- Reduced faculty control
+- Reduced faculty control
 
-\- Trust concerns
+- Trust concerns
 
 
 
-\## PM Principle
+## PM Principle
 
 
 

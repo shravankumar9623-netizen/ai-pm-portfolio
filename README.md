@@ -1,73 +1,62 @@
 # Shravan Kumar — AI Product Manager Portfolio
 
-## Live Portfolio
+AI-focused product and operations professional working at the intersection of EdTech, workflow automation, human-in-the-loop AI, analytics and practical software delivery.
 
-[View the portfolio on Vercel](https://ai-pm-portfolio-coral-rho.vercel.app)
+## Selected products
 
-## About Me
+| Product | Portfolio role | Evidence status |
+|---|---|---|
+| AI Video Solution Generator | Flagship product-design case study | Product documentation is available; implementation and production results are not claimed |
+| NGMC CheckIn / Workforce Operations | Secondary, sanitized case study | Working full-stack code is available locally; public disclosure requires confidentiality review |
+| Leaderboard Generator | Supporting technical project | Working Python code, analytics logic and tests are available locally |
+| QPG Tagging Automation | Potential project | Description is available; source and performance evidence were not located |
 
-I am an AI-focused Product Manager with experience across educational technology, product and content operations, program delivery, and cross-functional execution. I focus on translating customer problems into measurable product decisions and practical AI-enabled workflows.
+## Flagship: AI Video Solution Generator
 
-## AI Product Manager Profile
+A faculty-first product definition for turning approved academic material into reviewable educational video artifacts. The case study covers discovery, strategy, requirements, source-grounded architecture, human approval, evaluation, experimentation and instrumentation.
 
-My product approach starts with customer discovery and problem definition, then connects product strategy, requirements, system design, evaluation, experimentation, and go-to-market planning. I am particularly interested in trustworthy generative AI products that improve how people learn and work.
+- [Executive summary](02_Case_Studies/01_AI_Educational_Video_Generator/01_Executive_Summary.md)
+- [Complete flagship case study](02_Case_Studies/01_AI_Educational_Video_Generator/)
+- [Evidence Register](02_Case_Studies/00_EVIDENCE_REGISTER.md)
 
-> Customers do not buy AI. They buy outcomes.
+## Additional product evidence
 
-## Flagship Case Study
+- [NGMC CheckIn / Workforce Operations](02_Case_Studies/03_NGMC_Workforce_Operations_Platform/README.md)
+- [Leaderboard Generator](02_Case_Studies/04_Leaderboard_Generator/README.md)
+- [QPG evidence status](02_Case_Studies/05_QPG_Tagging_Automation/EVIDENCE_STATUS.md)
+- [Product ecosystem map](02_Case_Studies/PRODUCT_ECOSYSTEM_MAP.md)
 
-### AI Educational Video Generator
+## AI Product Management capabilities
 
-An AI-assisted workflow designed to help educators and academic production teams turn question and solution documents into reviewed educational videos. The case study covers discovery, personas, product strategy, PRD, MVP scope, architecture, RAG, AI evaluation, experimentation, and roadmap planning.
+- Product discovery, problem definition, JTBD and opportunity mapping
+- Product strategy, prioritization, MVPs, PRDs and acceptance criteria
+- LLM products, RAG, embeddings and bounded agent workflows
+- Evaluation datasets, rubrics, human review and responsible AI
+- Experimentation, product analytics, instrumentation and AI economics
+- Quality, cost, latency, reliability and user-outcome trade-offs
 
-- [Read the executive summary](02_Case_Studies/01_AI_Educational_Video_Generator/01_Executive_Summary.md)
-- [Explore the complete case study](02_Case_Studies/01_AI_Educational_Video_Generator/)
-- [Review evidence and source traceability](02_Case_Studies/01_AI_Educational_Video_Generator/SOURCE_MAP.md)
+## Technical evidence
 
-## Technical Skills
+Accessible product work demonstrates Python, pandas, Streamlit, spreadsheet processing, native PowerPoint generation, TypeScript/React applications, APIs, role-aware workflows, persistence patterns and automated tests. Technologies mentioned only in learning exercises are not presented as implementation experience.
 
-- SQL
-- Python
-- Power BI
-- Product analytics
-- Requirements engineering
-- System and workflow architecture
+## Learning roadmap
 
-## AI Skills
+The canonical learning record is under [`AI Product Manager Learning/AI PM/`](AI%20Product%20Manager%20Learning/AI%20PM/). Days 1–46 cover foundations through case-study integration. Simulated exercises carry an explicit label and are never presented as professional outcomes.
 
-- Generative AI and LLM product design
-- Retrieval-Augmented Generation
-- Embeddings and semantic retrieval
-- AI agents and workflow automation
-- Golden-dataset design
-- AI quality, latency, and human-review metrics
-- AI experimentation and model/provider comparison
+## Portfolio and career
 
-## Product Artifacts
-
-- [Case studies](02_Case_Studies/)
-- [Product requirements](03_PRDs/)
-- [AI PM frameworks](04_AI_PM_Frameworks/)
-- [Interview preparation](05_Interview_Preparation/)
-- [Writing and learning notes](08_Writing/)
-- [Reusable templates](10_Templates/)
-- [FAANG preparation structure](11_FAANG_Preparation/)
-
-## Resume
-
-- [Master resume structure](06_Career/Resume/Master_Resume.md)
-- [Achievements bank](06_Career/Resume/Achievements_Bank.md)
-
-Company-specific resume files are preparation templates and are not completed job applications.
-
-## Certifications
-
-- [Hugging Face Agents — Unit 1](09_Certifications/Hugging_Face_Agents_Unit_1.webp)
+- [Live portfolio](https://ai-pm-portfolio-coral-rho.vercel.app)
+- [Evidence-safe Resume V1](06_Career/Resume/Resume_V1.md)
+- [Interview story bank](05_Interview_Preparation/AI_PM_INTERVIEW_STORY_BANK.md)
+- [LinkedIn positioning](06_Career/LinkedIn/LINKEDIN_POSITIONING_AND_CONTENT_STRATEGY.md)
+- [Figma artifact index](Figma/FIGMA_PORTFOLIO_INDEX.md)
 
 ## Contact
 
-Verified email, LinkedIn, and GitHub profile URLs have not yet been added to the repository. Only verified contact channels should be published here.
+[GitHub profile](https://github.com/shravankumar9623-netizen) is the currently verified public channel. Email and LinkedIn are intentionally excluded until their exact public details are confirmed.
 
-## Repository Integrity
+## Evidence policy
 
-The original repository is preserved under [`99_Archive/Original_Structure`](99_Archive/Original_Structure/). Migration traceability is available in [SOURCE_MAP.md](SOURCE_MAP.md) and [MIGRATION_REPORT.md](MIGRATION_REPORT.md).
+This repository distinguishes `REAL`, `SIMULATED`, `CONCEPTUAL` and `UNVERIFIED` evidence. Targets, proposed architectures and learning datasets are not described as customer adoption, business impact or production performance.
+
+Historical material remains under `99_Archive` for traceability.

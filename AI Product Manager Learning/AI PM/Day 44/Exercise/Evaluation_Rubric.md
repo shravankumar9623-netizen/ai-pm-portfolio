@@ -1,8 +1,8 @@
-\# Day 44 — AI Evaluation Rubric
+# Day 44 — AI Evaluation Rubric
 
 
 
-\## Evaluation Scale
+## Evaluation Scale
 
 
 
@@ -18,39 +18,39 @@
 
 
 
-\## Primary Dimensions
+## Primary Dimensions
 
 
 
-\### Groundedness
+### Groundedness
 
 Does the generated content remain supported by the provided source material?
 
 
 
-\### Accuracy
+### Accuracy
 
 Is the generated information factually correct?
 
 
 
-\## Secondary Dimensions
+## Secondary Dimensions
 
 
 
-\### Relevance
+### Relevance
 
 Does the output directly address the intended task?
 
 
 
-\### Completeness
+### Completeness
 
 Does the output cover the important information required for the task?
 
 
 
-\## Product Requirement
+## Product Requirement
 
 
 
@@ -58,7 +58,7 @@ Educational content must remain trustworthy and appropriately grounded in source
 
 
 
-\## Important Principle
+## Important Principle
 
 
 

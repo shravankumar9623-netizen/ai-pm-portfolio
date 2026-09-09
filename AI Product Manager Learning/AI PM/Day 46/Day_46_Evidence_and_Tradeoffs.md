@@ -1,8 +1,8 @@
-\# Day 46 — Evidence and Trade-offs
+# Day 46 — Evidence and Trade-offs
 
 
 
-\## Evidence Chain
+## Evidence Chain
 
 
 
@@ -16,7 +16,7 @@ AI Performance
 
 
 
-\## Simulated Evidence
+## Simulated Evidence
 
 
 
@@ -36,7 +36,7 @@ AI Performance
 
 
 
-\## Positive Signal
+## Positive Signal
 
 
 
@@ -44,7 +44,7 @@ The simulated workflow demonstrates significant productivity potential.
 
 
 
-\## Negative Signal
+## Negative Signal
 
 
 
@@ -52,7 +52,7 @@ Content accuracy declines from 94% to 91%.
 
 
 
-\## Trade-off
+## Trade-off
 
 
 
@@ -60,7 +60,7 @@ Higher content production capacity versus maintaining academic quality.
 
 
 
-\## PM Decision
+## PM Decision
 
 
 
@@ -68,19 +68,19 @@ Continue development while prioritizing:
 
 
 
-\- Better first-pass quality
+- Better first-pass quality
 
-\- Reduced rework
+- Reduced rework
 
-\- Higher acceptance
+- Higher acceptance
 
-\- Stronger AI evaluation
+- Stronger AI evaluation
 
-\- Faculty feedback
+- Faculty feedback
 
 
 
-\## Important
+## Important
 
 
 
@@ -88,7 +88,7 @@ This is simulated learning data and is not verified production evidence.
 
 
 
-\## Evidence Hygiene
+## Evidence Hygiene
 
 
 

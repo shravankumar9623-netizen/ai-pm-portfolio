@@ -1,8 +1,8 @@
-\# Day 42 — Customer Discovery Evidence
+# Day 42 — Customer Discovery Evidence
 
 
 
-\## Theme
+## Theme
 
 
 
@@ -10,11 +10,11 @@ Customer Discovery → Evidence → Insight → Product Decision
 
 
 
-\---
+---
 
 
 
-\## Objective
+## Objective
 
 
 
@@ -24,11 +24,11 @@ that can support product decisions.
 
 
 
-\---
+---
 
 
 
-\## 1. Opinion vs Evidence
+## 1. Opinion vs Evidence
 
 
 
@@ -62,11 +62,11 @@ Evidence:
 
 
 
-\---
+---
 
 
 
-\## 2. Evidence Hierarchy
+## 2. Evidence Hierarchy
 
 
 
@@ -98,15 +98,15 @@ Product Decision
 
 
 
-\---
+---
 
 
 
-\## 3. What to Capture During Discovery
+## 3. What to Capture During Discovery
 
 
 
-\### User
+### User
 
 
 
@@ -114,7 +114,7 @@ Who is experiencing the problem?
 
 
 
-\### Context
+### Context
 
 
 
@@ -122,7 +122,7 @@ When does the problem occur?
 
 
 
-\### Current Behavior
+### Current Behavior
 
 
 
@@ -130,7 +130,7 @@ What does the user actually do?
 
 
 
-\### Pain
+### Pain
 
 
 
@@ -138,7 +138,7 @@ Where does friction occur?
 
 
 
-\### Frequency
+### Frequency
 
 
 
@@ -146,7 +146,7 @@ How often does the problem occur?
 
 
 
-\### Impact
+### Impact
 
 
 
@@ -154,7 +154,7 @@ What does the problem cost the user?
 
 
 
-\### Workaround
+### Workaround
 
 
 
@@ -162,7 +162,7 @@ How does the user solve it today?
 
 
 
-\### Evidence
+### Evidence
 
 
 
@@ -170,7 +170,7 @@ What supports the conclusion?
 
 
 
-\### Insight
+### Insight
 
 
 
@@ -178,11 +178,11 @@ What pattern can be identified?
 
 
 
-\---
+---
 
 
 
-\## 4. AI PM Evidence
+## 4. AI PM Evidence
 
 
 
@@ -190,29 +190,29 @@ For AI products also investigate:
 
 
 
-\- Trust
+- Trust
 
-\- Accuracy expectations
+- Accuracy expectations
 
-\- Human review
+- Human review
 
-\- Failure tolerance
+- Failure tolerance
 
-\- AI interaction
+- AI interaction
 
-\- Time saved
+- Time saved
 
-\- Rework
+- Rework
 
-\- Output quality
-
-
-
-\---
+- Output quality
 
 
 
-\## 5. Feature Request vs Problem
+---
+
+
+
+## 5. Feature Request vs Problem
 
 
 
@@ -244,23 +244,23 @@ Follow-up questions:
 
 
 
-\- What problem does one-click generation solve?
+- What problem does one-click generation solve?
 
-\- Which step takes the most time?
+- Which step takes the most time?
 
-\- What does the user currently do?
+- What does the user currently do?
 
-\- How often does the problem occur?
+- How often does the problem occur?
 
-\- What happens when the workflow is slow?
-
-
-
-\---
+- What happens when the workflow is slow?
 
 
 
-\## 6. Evidence Table
+---
+
+
+
+## 6. Evidence Table
 
 
 
@@ -280,11 +280,11 @@ Follow-up questions:
 
 
 
-\---
+---
 
 
 
-\## 7. Product Decision Rule
+## 7. Product Decision Rule
 
 
 
@@ -298,23 +298,23 @@ Move forward when the problem has sufficient evidence of:
 
 
 
-\- Frequency
+- Frequency
 
-\- Severity
+- Severity
 
-\- Impact
+- Impact
 
-\- Relevance
+- Relevance
 
-\- Existing workaround
-
-
-
-\---
+- Existing workaround
 
 
 
-\## 8. Key Principle
+---
+
+
+
+## 8. Key Principle
 
 
 
@@ -326,27 +326,27 @@ First identify whether it represents:
 
 
 
-\- Opinion
+- Opinion
 
-\- Observation
+- Observation
 
-\- Behavior
+- Behavior
 
-\- Pain
+- Pain
 
-\- Feature request
+- Feature request
 
-\- Evidence
+- Evidence
 
-\- Insight
-
-
-
-\---
+- Insight
 
 
 
-\## 9. AI PM Principle
+---
+
+
+
+## 9. AI PM Principle
 
 
 
@@ -362,11 +362,11 @@ problem and whether AI could plausibly improve the outcome.
 
 
 
-\---
+---
 
 
 
-\## 10. Day 42 Takeaway
+## 10. Day 42 Takeaway
 
 
 

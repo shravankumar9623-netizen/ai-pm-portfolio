@@ -1,8 +1,8 @@
-\# Day 45 — AI Product Decision Drill
+# Day 45 — AI Product Decision Drill
 
 
 
-\## Product
+## Product
 
 
 
@@ -10,7 +10,7 @@ AI Video Solution Generator
 
 
 
-\## Situation
+## Situation
 
 
 
@@ -18,7 +18,7 @@ The product is generating significantly more video solutions, but some AI qualit
 
 
 
-\### Current Signals
+### Current Signals
 
 
 
@@ -44,11 +44,11 @@ The product is generating significantly more video solutions, but some AI qualit
 
 
 
-\---
+---
 
 
 
-\# Decision Scenario
+# Decision Scenario
 
 
 
@@ -56,27 +56,27 @@ The engineering team proposes an AI model improvement.
 
 
 
-\### Current Model
+### Current Model
 
 
 
-\- Accuracy: 91%
+- Accuracy: 91%
 
-\- Lower cost
+- Lower cost
 
-\- Lower latency
-
-
-
-\### Proposed Model
+- Lower latency
 
 
 
-\- Accuracy: 95%
+### Proposed Model
 
-\- Generation cost: +40%
 
-\- Latency: +2 seconds
+
+- Accuracy: 95%
+
+- Generation cost: +40%
+
+- Latency: +2 seconds
 
 
 
@@ -88,15 +88,15 @@ The team asks:
 
 
 
-\---
+---
 
 
 
-\# My PM Decision
+# My PM Decision
 
 
 
-\## Decision
+## Decision
 
 
 
@@ -108,11 +108,11 @@ Run a controlled experiment first.
 
 
 
-\---
+---
 
 
 
-\# Why?
+# Why?
 
 
 
@@ -120,17 +120,17 @@ The current data shows:
 
 
 
-\- Generation volume is increasing.
+- Generation volume is increasing.
 
-\- Acceptance rate is decreasing.
+- Acceptance rate is decreasing.
 
-\- Regeneration has doubled.
+- Regeneration has doubled.
 
-\- Editing time has increased by 75%.
+- Editing time has increased by 75%.
 
-\- Content accuracy has decreased from 94% to 91%.
+- Content accuracy has decreased from 94% to 91%.
 
-\- Generation cost has already increased from $0.08 to $0.11.
+- Generation cost has already increased from $0.08 to $0.11.
 
 
 
@@ -142,15 +142,15 @@ However, the model should not be selected based on accuracy alone.
 
 
 
-\---
+---
 
 
 
-\# Key Questions Before Making the Final Decision
+# Key Questions Before Making the Final Decision
 
 
 
-\### 1. Does higher accuracy improve user outcomes?
+### 1. Does higher accuracy improve user outcomes?
 
 
 
@@ -158,17 +158,17 @@ Measure:
 
 
 
-\- Acceptance rate
+- Acceptance rate
 
-\- Regeneration rate
+- Regeneration rate
 
-\- Editing time
+- Editing time
 
-\- Rejection rate
+- Rejection rate
 
 
 
-\### 2. Does the higher-quality model reduce rework?
+### 2. Does the higher-quality model reduce rework?
 
 
 
@@ -176,7 +176,7 @@ If regeneration and editing decrease significantly, the additional model cost ma
 
 
 
-\### 3. Is the additional latency acceptable?
+### 3. Is the additional latency acceptable?
 
 
 
@@ -184,7 +184,7 @@ An additional 2 seconds may be insignificant for some workflows but important fo
 
 
 
-\### 4. Does the additional cost create sufficient value?
+### 4. Does the additional cost create sufficient value?
 
 
 
@@ -204,7 +204,7 @@ Time saved + reduced rework + increased acceptance + increased published content
 
 
 
-\### 5. Does the improvement work across subjects?
+### 5. Does the improvement work across subjects?
 
 
 
@@ -212,25 +212,25 @@ Check whether model improvement benefits:
 
 
 
-\- Physics
+- Physics
 
-\- Chemistry
+- Chemistry
 
-\- Maths
+- Maths
 
-\- Biology
+- Biology
 
-\- English
+- English
 
-\- Other subjects
-
-
-
-\---
+- Other subjects
 
 
 
-\# Proposed Experiment
+---
+
+
+
+# Proposed Experiment
 
 
 
@@ -238,7 +238,7 @@ Run an A/B test.
 
 
 
-\### Control
+### Control
 
 
 
@@ -246,7 +246,7 @@ Current model
 
 
 
-\### Treatment
+### Treatment
 
 
 
@@ -258,31 +258,31 @@ Track:
 
 
 
-\- Accuracy
+- Accuracy
 
-\- Groundedness
+- Groundedness
 
-\- Acceptance rate
+- Acceptance rate
 
-\- Regeneration rate
+- Regeneration rate
 
-\- Editing time
+- Editing time
 
-\- Rejection rate
+- Rejection rate
 
-\- Latency
+- Latency
 
-\- Cost per accepted solution
+- Cost per accepted solution
 
-\- Published solutions
-
-
-
-\---
+- Published solutions
 
 
 
-\# Success Criteria
+---
+
+
+
+# Success Criteria
 
 
 
@@ -302,7 +302,7 @@ Example decision rule:
 
 
 
-\### Continue
+### Continue
 
 
 
@@ -310,37 +310,21 @@ If:
 
 
 
-\- Accuracy improves
+- Accuracy improves
 
-\- Acceptance rate improves
+- Acceptance rate improves
 
-\- Regeneration decreases
+- Regeneration decreases
 
-\- Editing time decreases
+- Editing time decreases
 
-\- Cost per accepted solution remains acceptable
+- Cost per accepted solution remains acceptable
 
-\- Latency remains within the acceptable user threshold
-
-
-
-\### Modify
+- Latency remains within the acceptable user threshold
 
 
 
-If:
-
-
-
-\- Quality improves
-
-\- But cost or latency increases significantly
-
-\- Or user behaviour does not improve proportionally
-
-
-
-\### Stop
+### Modify
 
 
 
@@ -348,27 +332,43 @@ If:
 
 
 
-\- Accuracy improves
+- Quality improves
 
-\- But acceptance does not improve
+- But cost or latency increases significantly
 
-\- Rework remains high
-
-\- Cost increases substantially
-
-\- User experience becomes worse
+- Or user behaviour does not improve proportionally
 
 
 
-\---
+### Stop
 
 
 
-\# AI PM Principle
+If:
 
 
 
-\## Optimize for product outcomes, not model metrics.
+- Accuracy improves
+
+- But acceptance does not improve
+
+- Rework remains high
+
+- Cost increases substantially
+
+- User experience becomes worse
+
+
+
+---
+
+
+
+# AI PM Principle
+
+
+
+## Optimize for product outcomes, not model metrics.
 
 
 
@@ -400,11 +400,11 @@ Business Impact
 
 
 
-\---
+---
 
 
 
-\# Final PM Statement
+# Final PM Statement
 
 
 
@@ -416,11 +416,11 @@ I would first run a controlled experiment and evaluate the model based on produc
 
 
 
-\---
+---
 
 
 
-\# Key Learning
+# Key Learning
 
 
 
@@ -428,19 +428,19 @@ AI Product Managers need to balance:
 
 
 
-\- Quality
+- Quality
 
-\- User experience
+- User experience
 
-\- Cost
+- Cost
 
-\- Latency
+- Latency
 
-\- Reliability
+- Reliability
 
-\- Safety
+- Safety
 
-\- Business value
+- Business value
 
 
 

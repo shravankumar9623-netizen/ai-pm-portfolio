@@ -1,8 +1,8 @@
-\# Day 45 Reflection
+# Day 45 Reflection
 
 
 
-\## What I Learned
+## What I Learned
 
 
 
@@ -22,7 +22,7 @@
 
 
 
-\## What Improved
+## What Improved
 
 
 
@@ -30,43 +30,43 @@ I can now:
 
 
 
-\- Read a product funnel.
+- Read a product funnel.
 
-\- Identify conversion loss.
+- Identify conversion loss.
 
-\- Compare week-over-week metrics.
+- Compare week-over-week metrics.
 
-\- Calculate acceptance rate.
+- Calculate acceptance rate.
 
-\- Identify AI-specific behavioural signals.
+- Identify AI-specific behavioural signals.
 
-\- Form a product hypothesis.
+- Form a product hypothesis.
 
-\- Recommend a next step based on evidence.
-
-
-
-\## What I Still Need to Improve
+- Recommend a next step based on evidence.
 
 
 
-\- Advanced product analytics
-
-\- Cohort analysis
-
-\- Retention analysis
-
-\- Experiment-to-metric connection
-
-\- Event taxonomy
-
-\- Real-world analytics tools
-
-\- AI evaluation + analytics integration
+## What I Still Need to Improve
 
 
 
-\## PM Principle
+- Advanced product analytics
+
+- Cohort analysis
+
+- Retention analysis
+
+- Experiment-to-metric connection
+
+- Event taxonomy
+
+- Real-world analytics tools
+
+- AI evaluation + analytics integration
+
+
+
+## PM Principle
 
 
 

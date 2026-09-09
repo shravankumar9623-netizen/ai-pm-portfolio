@@ -1,4 +1,4 @@
-\### 1. Primary User
+### 1. Primary User
 
 
 
@@ -6,7 +6,7 @@ Faculty members and educational content creators who need to create instructiona
 
 
 
-\### 2. User Goal
+### 2. User Goal
 
 
 
@@ -14,7 +14,7 @@ Create clear, engaging and accurate educational videos quickly without requiring
 
 
 
-\### 3. Current Behavior
+### 3. Current Behavior
 
 
 
@@ -22,37 +22,37 @@ Users manually convert lesson content into:
 
 
 
-\- Scripts
+- Scripts
 
-\- Narration
+- Narration
 
-\- Visual explanations
+- Visual explanations
 
-\- Slides/scenes
+- Slides/scenes
 
-\- Final videos
-
-
-
-\### 4. Pain Points
+- Final videos
 
 
 
-\- Video creation takes significant time.
-
-\- Content needs to be manually structured.
-
-\- Narration requires additional effort.
-
-\- Visual creation is time-consuming.
-
-\- Publishing takes additional effort.
-
-\- Output can be inconsistent.
+### 4. Pain Points
 
 
 
-\### 5. Root Cause
+- Video creation takes significant time.
+
+- Content needs to be manually structured.
+
+- Narration requires additional effort.
+
+- Visual creation is time-consuming.
+
+- Publishing takes additional effort.
+
+- Output can be inconsistent.
+
+
+
+### 5. Root Cause
 
 
 
@@ -60,7 +60,7 @@ The existing workflow requires users to perform multiple disconnected content-pr
 
 
 
-\### 6. AI Expectation
+### 6. AI Expectation
 
 
 
@@ -68,7 +68,7 @@ Users expect AI to reduce manual effort by helping transform educational content
 
 
 
-\### 7. Journey Breakdown
+### 7. Journey Breakdown
 
 
 
@@ -84,7 +84,7 @@ because users need to manually convert content into scripts, visuals, narration 
 
 
 
-\### 8. Most Important Problem
+### 8. Most Important Problem
 
 
 
@@ -92,7 +92,7 @@ Educational content creators spend significant time manually converting existing
 
 
 
-\### 9. Evidence Required
+### 9. Evidence Required
 
 
 
@@ -100,23 +100,23 @@ I would validate the problem using:
 
 
 
-\- User interviews
+- User interviews
 
-\- Workflow observation
+- Workflow observation
 
-\- Time-on-task measurement
+- Time-on-task measurement
 
-\- Video production frequency
+- Video production frequency
 
-\- User surveys
+- User surveys
 
-\- Support feedback
+- Support feedback
 
-\- Prototype usability testing
+- Prototype usability testing
 
 
 
-\### 10. Problem Statement
+### 10. Problem Statement
 
 
 

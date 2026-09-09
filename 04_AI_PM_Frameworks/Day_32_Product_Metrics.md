@@ -1,8 +1,8 @@
-\# Day 32 - Product Metrics
+# Day 32 - Product Metrics
 
 
 
-\## North Star Metric
+## North Star Metric
 
 
 
@@ -30,11 +30,11 @@ North Star Metric
 
 
 
-\---
+---
 
 
 
-\## Metrics Table
+## Metrics Table
 
 
 
@@ -60,19 +60,19 @@ North Star Metric
 
 
 
-\---
+---
 
 
 
-\## Key Takeaways
+## Key Takeaways
 
 
 
-\- User metrics measure user experience.
+- User metrics measure user experience.
 
-\- AI metrics measure model quality.
+- AI metrics measure model quality.
 
-\- Business metrics measure business outcomes.
+- Business metrics measure business outcomes.
 
-\- Operational metrics measure system performance.
+- Operational metrics measure system performance.
 

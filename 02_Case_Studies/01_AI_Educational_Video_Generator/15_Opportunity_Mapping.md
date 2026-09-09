@@ -1,20 +1,20 @@
-\# Opportunity Mapping
+# Opportunity Mapping
 
 
 
-\## Product
+## Product
 
 
 
-AI Educational Video Generator
+AI Video Solution Generator
 
 
 
-\---
+---
 
 
 
-\## Desired Outcome
+## Desired Outcome
 
 
 
@@ -22,11 +22,11 @@ Reduce the time and manual effort required to produce high-quality educational v
 
 
 
-\---
+---
 
 
 
-\## Current User Journey
+## Current User Journey
 
 
 
@@ -52,15 +52,15 @@ Faculty/content teams currently need to:
 
 
 
-\---
+---
 
 
 
-\## Key Pain Points
+## Key Pain Points
 
 
 
-\### Opportunity 1 — Manual Script Preparation
+### Opportunity 1 — Manual Script Preparation
 
 
 
@@ -68,7 +68,7 @@ Faculty/content teams may spend significant effort converting solutions into tea
 
 
 
-\### Opportunity 2 — Manual Annotation
+### Opportunity 2 — Manual Annotation
 
 
 
@@ -76,7 +76,7 @@ Important solution steps require visual annotation, creating additional producti
 
 
 
-\### Opportunity 3 — Narration Production
+### Opportunity 3 — Narration Production
 
 
 
@@ -84,7 +84,7 @@ Creating narration introduces additional recording or generation effort.
 
 
 
-\### Opportunity 4 — Synchronization
+### Opportunity 4 — Synchronization
 
 
 
@@ -92,7 +92,7 @@ Narration and visual annotations must remain synchronized for the explanation to
 
 
 
-\### Opportunity 5 — Quality Review
+### Opportunity 5 — Quality Review
 
 
 
@@ -100,15 +100,15 @@ Generated explanations require review for correctness, pronunciation, pedagogy, 
 
 
 
-\---
+---
 
 
 
-\## Opportunity Statements
+## Opportunity Statements
 
 
 
-\### Opportunity 1
+### Opportunity 1
 
 
 
@@ -116,7 +116,7 @@ How might we reduce the manual effort required to convert solutions into teachin
 
 
 
-\### Opportunity 2
+### Opportunity 2
 
 
 
@@ -124,7 +124,7 @@ How might we reduce manual annotation effort while preserving instructional clar
 
 
 
-\### Opportunity 3
+### Opportunity 3
 
 
 
@@ -132,7 +132,7 @@ How might we reduce narration-production effort while maintaining natural delive
 
 
 
-\### Opportunity 4
+### Opportunity 4
 
 
 
@@ -140,7 +140,7 @@ How might we improve synchronization between narration and visual explanation?
 
 
 
-\### Opportunity 5
+### Opportunity 5
 
 
 
@@ -148,11 +148,11 @@ How might we make quality review faster without reducing review accuracy?
 
 
 
-\---
+---
 
 
 
-\## Opportunity Evaluation
+## Opportunity Evaluation
 
 
 
@@ -172,11 +172,11 @@ How might we make quality review faster without reducing review accuracy?
 
 
 
-\---
+---
 
 
 
-\## Product Principle
+## Product Principle
 
 
 
@@ -188,23 +188,23 @@ Automation should focus on activities that:
 
 
 
-\- occur frequently,
+- occur frequently,
 
-\- consume meaningful effort,
+- consume meaningful effort,
 
-\- create measurable friction,
+- create measurable friction,
 
-\- can be automated reliably,
+- can be automated reliably,
 
-\- and improve the overall user outcome.
-
-
-
-\---
+- and improve the overall user outcome.
 
 
 
-\## Key Learning
+---
+
+
+
+## Key Learning
 
 
 
@@ -216,11 +216,11 @@ The PM should first understand the user problem and opportunity before selecting
 
 
 
-\---
+---
 
 
 
-\## Next Step
+## Next Step
 
 
 

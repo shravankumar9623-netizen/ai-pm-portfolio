@@ -1,15 +1,3 @@
 export default function About() {
-  return (
-    <div className="shell">
-      <header className="page-head"><p className="eyebrow">About</p><h1>Product thinking meets practical AI.</h1><p className="lede">I’m an aspiring AI Product Manager with 6+ years of experience across product management and operations, program delivery, and EdTech.</p></header>
-      <section className="section copy">
-        <h2>Why AI product management</h2>
-        <p>Working with cross-functional teams on large-scale educational products led me deeper into customer needs, product strategy, and scalable delivery. Today I combine that foundation with generative AI, LLM applications, agents, and workflow automation.</p>
-        <h2>What I’m building</h2>
-        <p>My flagship project is an AI Educational Video Generator designed to transform academic questions into curriculum-aligned video explanations using script generation, narration, storyboards, intelligent rendering, and human review.</p>
-        <h2>Areas of interest</h2>
-        <ul className="list"><li>AI product strategy and customer discovery</li><li>Jobs To Be Done and product analytics</li><li>RAG, AI agents, evaluation, and trustworthy LLM experiences</li><li>Workflow automation and EdTech innovation</li></ul>
-      </section>
-    </div>
-  );
+  return <div className="shell"><header className="page-head"><p className="eyebrow">About</p><h1>Product thinking meets practical AI.</h1><p className="lede">I’m an AI-focused product and operations professional with more than six years of stated experience across product/operations, program delivery, and EdTech.</p></header><section className="section copy"><h2>Why AI product management</h2><p>I focus on translating customer and operational problems into measurable workflows, explicit product decisions, and safe uses of AI.</p><h2>What I’m building and documenting</h2><p>My flagship portfolio initiative is the AI Video Solution Generator: strategy, requirements, source-grounded architecture, evaluation, analytics, and human-review design. Its public case study is transparent that implementation and production results are not evidenced here.</p><h2>Working product evidence</h2><p>Separate codebases support a Python spreadsheet-to-PowerPoint analytics tool and a full-stack workforce operations platform. Public summaries omit private data and unsupported impact claims.</p><h2>Areas of focus</h2><ul className="list"><li>AI product strategy and customer discovery</li><li>Human-in-the-loop workflows and AI evaluation</li><li>RAG, agents, analytics, and AI economics</li><li>Workflow automation, operational products, and EdTech</li></ul></section></div>;
 }

@@ -1,18 +1,56 @@
-# AI Product Manager Resume
+# Shravan Kumar
 
-## Summary
+AI Product Management | EdTech | Product Operations | AI-enabled Workflows
 
-AI-focused Product Manager with experience in educational technology, AI product strategy, data analytics, and large-scale content operations.
+Portfolio: https://ai-pm-portfolio-coral-rho.vercel.app
+GitHub: https://github.com/shravankumar9623-netizen
 
-## Featured Project
+Verified email, LinkedIn URL, location, employer chronology, formal titles and education details are maintained outside this public draft and must be validated before application submission.
 
-AI Video Solution Generator
+## Professional Summary
 
-## Technical Skills
+AI-focused product and operations professional with repository-documented experience designing educational workflows, product requirements, human-in-the-loop AI controls, evaluation approaches and operational software. Brings more than six years of stated experience across product/operations, program delivery and EdTech; exact employment chronology requires final private verification. Combines customer-problem framing with practical Python and TypeScript product work.
 
-- AI Agents
-- RAG
-- SQL
-- Python
-- Power BI
+## Selected Product Work
 
+### AI Video Solution Generator — Product Design Portfolio
+
+- Defined the user problem, product strategy, MVP, workflows, requirements, risk controls and roadmap for a faculty-reviewed educational video workflow.
+- Designed source-grounded RAG and evaluation approaches covering correctness, groundedness, human acceptance, latency and cost.
+- Established human approval, traceability and failure handling as core product requirements.
+- Maintained explicit separation between targets, simulated learning data and verified outcomes.
+- Implementation source is not included in the public portfolio; no production impact is claimed.
+
+### NGMC CheckIn / Workforce Operations Platform — Evidence-Safe Profile
+
+- Contributed product and technical work represented by a full-stack codebase spanning attendance, timers, timesheets, projects, approvals, roles, reporting and productivity views.
+- Worked with authenticated, role-aware workflows, persistent data, operational auditability and automated validation.
+- Defined product behaviour across admin, manager and employee/faculty experiences.
+- Public claims exclude confidential details and unverified adoption or business results.
+
+### Leaderboard Generator — Python Product
+
+- Built and validated a local spreadsheet-to-PowerPoint workflow for faculty result presentations.
+- Implemented explicit ranking, tie, absence, filtering and subject-analysis rules.
+- Produced editable native slides, batch-processing options and multiple audience presets.
+- Added automated edge-case and layout checks while keeping student data local.
+
+## Product Capabilities
+
+Product discovery, problem definition, JTBD, user journeys, product strategy, prioritization, roadmaps, MVP definition, PRDs, acceptance criteria, experimentation, product analytics, launch planning and stakeholder-oriented documentation.
+
+## AI Product Capabilities
+
+LLM product design, RAG, embeddings, agent workflows, constrained taxonomies, human-in-the-loop systems, evaluation datasets and rubrics, model/product metrics, responsible AI, AI UX and quality-cost-latency trade-offs.
+
+## Technical Capabilities Verified by Accessible Code
+
+Python, pandas, Streamlit, spreadsheet processing, PowerPoint generation, TypeScript, React/Next-style applications, API workflows, role-based access, persistent data patterns, automated tests and deployment configuration.
+
+## Certification
+
+Hugging Face Agents — Unit 1 artifact is stored in the portfolio certification directory.
+
+## Application Gate
+
+This is a complete evidence-safe portfolio resume, but it is not ready for employer submission until private chronology, contact information, education, certification verification and ownership scope are confirmed.

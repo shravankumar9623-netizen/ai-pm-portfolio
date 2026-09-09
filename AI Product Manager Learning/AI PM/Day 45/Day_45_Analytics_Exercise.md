@@ -1,8 +1,8 @@
-\# Day 45 — Analytics Exercise
+# Day 45 — Analytics Exercise
 
 
 
-\## Scenario
+## Scenario
 
 
 
@@ -10,7 +10,7 @@ AI Video Solution Generator
 
 
 
-\## Week 1 vs Week 2
+## Week 1 vs Week 2
 
 
 
@@ -34,7 +34,7 @@ AI Video Solution Generator
 
 
 
-\## Analysis
+## Analysis
 
 
 
@@ -76,11 +76,11 @@ Cost:
 
 Accuracy:
 
-\-3 percentage points
+-3 percentage points
 
 
 
-\## Acceptance Rate
+## Acceptance Rate
 
 
 
@@ -100,7 +100,7 @@ Week 2:
 
 
 
-\## Key Observation
+## Key Observation
 
 
 
@@ -112,15 +112,15 @@ At the same time:
 
 
 
-\- Regeneration doubled
+- Regeneration doubled
 
-\- Editing time increased 75%
+- Editing time increased 75%
 
-\- Accuracy declined
+- Accuracy declined
 
 
 
-\## Initial Hypothesis
+## Initial Hypothesis
 
 
 
@@ -128,7 +128,7 @@ The product may be scaling output faster than first-pass AI quality.
 
 
 
-\## Product Decision
+## Product Decision
 
 
 
@@ -136,7 +136,7 @@ Investigate first-pass quality and downstream rework before increasing generatio
 
 
 
-\## Caveat
+## Caveat
 
 
 

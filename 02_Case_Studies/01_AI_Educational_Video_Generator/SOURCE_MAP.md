@@ -26,7 +26,7 @@
 
 ## Alias Resolution
 
-**AI Educational Video Generator** is the canonical product name established for this consolidation. [Source: U01]
+**AI Video Solution Generator** is the canonical product name established for this consolidation. [Source: U01]
 
 **AI Video Platform**, **NGMC Video Solution**, and **Automated Video Solution Generator** are historical aliases retained through the immutable source artifacts. [Source: U01, S01, S06, S13, S16]
 

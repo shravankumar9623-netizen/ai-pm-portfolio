@@ -1,18 +1,18 @@
-\# AI Educational Video Generator
+# AI Video Solution Generator
 
-\## Case Study
-
-
-
-\---
+## Case Study
 
 
 
-\# 1. Project Overview
+---
 
 
 
-The AI Educational Video Generator is an AI-powered workflow designed to automate the creation of educational video solutions from existing question and solution content.
+# 1. Project Overview
+
+
+
+The AI Video Solution Generator is an AI-powered workflow designed to automate the creation of educational video solutions from existing question and solution content.
 
 
 
@@ -20,11 +20,11 @@ The product focuses on reducing repetitive content-production work while maintai
 
 
 
-\---
+---
 
 
 
-\# 2. Problem
+# 2. Problem
 
 
 
@@ -36,19 +36,19 @@ Faculty and content teams may need to:
 
 
 
-\- Understand the question
+- Understand the question
 
-\- Prepare the explanation
+- Prepare the explanation
 
-\- Create annotations
+- Create annotations
 
-\- Prepare narration
+- Prepare narration
 
-\- Synchronize narration with visual explanations
+- Synchronize narration with visual explanations
 
-\- Render the final video
+- Render the final video
 
-\- Review the generated content
+- Review the generated content
 
 
 
@@ -60,51 +60,51 @@ The product addresses this operational problem through AI-assisted automation.
 
 
 
-\---
+---
 
 
 
-\# 3. Users
+# 3. Users
 
 
 
-\### Primary Users
+### Primary Users
 
 
 
-\- Faculty
+- Faculty
 
-\- Subject Matter Experts
-
-
-
-\### Secondary Users
+- Subject Matter Experts
 
 
 
-\- Content Teams
-
-\- Academic Teams
-
-\- Instructional Designers
-
-\- Content Operations Teams
+### Secondary Users
 
 
 
-\### End Beneficiaries
+- Content Teams
+
+- Academic Teams
+
+- Instructional Designers
+
+- Content Operations Teams
 
 
 
-\- Students
+### End Beneficiaries
 
 
 
-\---
+- Students
 
 
 
-\# 4. Solution
+---
+
+
+
+# 4. Solution
 
 
 
@@ -152,11 +152,11 @@ Final Educational Video
 
 
 
-\---
+---
 
 
 
-\# 5. AI Architecture
+# 5. AI Architecture
 
 
 
@@ -164,7 +164,7 @@ The product uses multiple AI and processing components.
 
 
 
-\### Content Understanding
+### Content Understanding
 
 
 
@@ -172,7 +172,7 @@ Gemini Vision / multimodal AI is used for understanding question and document co
 
 
 
-\### Script Generation
+### Script Generation
 
 
 
@@ -180,7 +180,7 @@ An LLM generates teaching-oriented explanations based on the question and soluti
 
 
 
-\### Retrieval
+### Retrieval
 
 
 
@@ -188,7 +188,7 @@ RAG can provide relevant contextual information to improve generation quality.
 
 
 
-\### Narration
+### Narration
 
 
 
@@ -196,7 +196,7 @@ ElevenLabs and Sarvam AI can be used for speech generation depending on language
 
 
 
-\### Alignment
+### Alignment
 
 
 
@@ -204,7 +204,7 @@ WhisperX forced alignment can be used to obtain word-level timing information.
 
 
 
-\### Rendering
+### Rendering
 
 
 
@@ -212,11 +212,11 @@ Remotion and FFmpeg are used for video composition and rendering.
 
 
 
-\---
+---
 
 
 
-\# 6. Success Metrics
+# 6. Success Metrics
 
 
 
@@ -228,15 +228,15 @@ The following are product targets and should not be presented as validated resul
 
 |---|---:|---|
 
-| Answer Accuracy | >98% | \[Target] |
+| Answer Accuracy | >98% | [Target] |
 
-| Pronunciation Accuracy | >98% | \[Target] |
+| Pronunciation Accuracy | >98% | [Target] |
 
-| Diagram Relevance | >95% | \[Target] |
+| Diagram Relevance | >95% | [Target] |
 
-| Annotation Synchronization Error | <100 ms | \[Target] |
+| Annotation Synchronization Error | <100 ms | [Target] |
 
-| Faculty Approval | >90% | \[Target] |
+| Faculty Approval | >90% | [Target] |
 
 
 
@@ -244,25 +244,25 @@ Additional operational metrics:
 
 
 
-\- Generation time
+- Generation time
 
-\- Cost per video
+- Cost per video
 
-\- Manual intervention rate
+- Manual intervention rate
 
-\- Failure rate
+- Failure rate
 
-\- Faculty review time
+- Faculty review time
 
-\- Script revision rate
-
-
-
-\---
+- Script revision rate
 
 
 
-\# 7. Results
+---
+
+
+
+# 7. Results
 
 
 
@@ -278,15 +278,15 @@ The next phase is to conduct controlled experiments and faculty evaluation to es
 
 
 
-\---
+---
 
 
 
-\# 8. Lessons Learned
+# 8. Lessons Learned
 
 
 
-\### Lesson 1
+### Lesson 1
 
 
 
@@ -294,7 +294,7 @@ AI generation alone is not sufficient for an educational product.
 
 
 
-\### Lesson 2
+### Lesson 2
 
 
 
@@ -302,7 +302,7 @@ Human review remains important for academic quality.
 
 
 
-\### Lesson 3
+### Lesson 3
 
 
 
@@ -310,7 +310,7 @@ AI quality must be measured using multiple dimensions rather than one generic ac
 
 
 
-\### Lesson 4
+### Lesson 4
 
 
 
@@ -318,7 +318,7 @@ Synchronization between narration and visual explanation is an important part of
 
 
 
-\### Lesson 5
+### Lesson 5
 
 
 

@@ -1,106 +1,33 @@
-\# Day 36 — Hypothesis-Driven Product Management
+# Day 36 — Hypothesis-Driven Product Management
 
+## Objective
 
+Turn uncertain product beliefs into falsifiable decisions.
 
-\## Theme
+The sequence is opportunity → assumption → hypothesis → experiment → metric → decision. Test assumptions that combine high uncertainty with high consequence, not those that are easiest to measure.
 
+## Flagship application
 
+Riskiest assumption: a source-grounded AI draft can reduce total preparation effort without creating unacceptable verification or correction work.
 
-Hypothesis-Driven Product Management — Turning Opportunities into Testable Decisions
+Hypothesis: providing reviewers with a source-linked draft and explicit edit/reject/approve controls will improve the proportion of tasks reaching an approved output within a quality threshold.
 
+## Simulated exercise
 
+**Simulated learning data — created for PM practice.** Manual workflow: median 120 minutes, 94% rubric accuracy. Assisted workflow: median 65 minutes, 91% accuracy, 78% acceptance and two versus three rework cycles.
 
-\## AI PM Concept
+## Analysis and decision
 
+Productivity appears promising, but accuracy declines and 22% of drafts are not accepted. Continue only as a controlled experiment. Improve grounding, categorize rework and establish a false-acceptance guardrail before expansion.
 
+## Interview questions and answers
 
-Hypothesis-driven AI product development.
+1. Test the assumption with the highest uncertainty and consequence.
+2. A hypothesis predicts measurable change and explains why.
+3. A guardrail protects against a harmful win.
+4. Falsification criteria must be declared before reading results.
+5. A failed test can save investment and improve the strategy.
 
+## Reflection
 
-
-\## PM Concept
-
-
-
-Assumption → Hypothesis → Experiment → Metric → Decision.
-
-
-
-\## Microsoft Learning
-
-
-
-Validate product assumptions using customer research and experiments.
-
-
-
-\## Coach Lesson
-
-
-
-Don't test what is easiest. Test what is riskiest.
-
-
-
-\## Key Learning
-
-
-
-A product opportunity is still uncertain until the assumptions behind it are tested.
-
-
-
-\## Flagship Application
-
-
-
-AI Educational Video Generator
-
-
-
-\## Key Hypotheses
-
-
-
-1\. AI-assisted script generation can reduce preparation effort.
-
-2\. Automated annotation can reduce manual work.
-
-3\. AI narration can reduce narration-production effort.
-
-4\. Integrated automation can reduce total production time.
-
-5\. Review and control mechanisms can improve trust and adoption.
-
-
-
-\## Interview Question
-
-
-
-How do you decide which product assumption to test first?
-
-
-
-\## Answer
-
-
-
-I prioritize the assumption that combines high uncertainty with high potential impact on product success. If that assumption is false, it could materially change whether or how we build the product. I then design the smallest credible experiment that can generate useful evidence.
-
-
-
-\## Reflection
-
-
-
-What assumption about my flagship product would be most dangerous to get wrong?
-
-
-
-My answer:
-
-
-
-\[Write your answer]
-
+The most dangerous assumption is that faster draft generation automatically creates user value. The end-to-end reviewed outcome must improve.

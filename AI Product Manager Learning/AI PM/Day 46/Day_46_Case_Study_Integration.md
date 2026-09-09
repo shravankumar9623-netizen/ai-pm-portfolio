@@ -1,4 +1,4 @@
-\# Day 46 — Case Study Integration
+# Day 46 — Case Study Integration
 
 
 
@@ -6,7 +6,7 @@ Date: 09-09-2026
 
 
 
-\## Theme
+## Theme
 
 
 
@@ -14,7 +14,7 @@ Turning Product Work into an Evidence-Based AI PM Case Study
 
 
 
-\## Objective
+## Objective
 
 
 
@@ -22,7 +22,7 @@ Learn how to integrate customer discovery, problem definition, experimentation, 
 
 
 
-\## Case Study Structure
+## Case Study Structure
 
 
 
@@ -64,7 +64,7 @@ Learn how to integrate customer discovery, problem definition, experimentation, 
 
 
 
-\## Product
+## Product
 
 
 
@@ -72,7 +72,7 @@ AI Video Solution Generator
 
 
 
-\## Primary User
+## Primary User
 
 
 
@@ -80,7 +80,7 @@ Faculty / Subject Matter Expert
 
 
 
-\## Problem
+## Problem
 
 
 
@@ -88,7 +88,7 @@ Faculty time was constrained by studio booking, recording, editing, review and r
 
 
 
-\## Product Goal
+## Product Goal
 
 
 
@@ -96,7 +96,7 @@ Reduce repetitive video-production effort while allowing faculty to maintain con
 
 
 
-\## MVP
+## MVP
 
 
 
@@ -116,7 +116,7 @@ Question Paper / Source
 
 
 
-\## Key Product Decisions
+## Key Product Decisions
 
 
 
@@ -132,7 +132,7 @@ Question Paper / Source
 
 
 
-\## Rejected Alternative
+## Rejected Alternative
 
 
 
@@ -144,17 +144,17 @@ Reason:
 
 
 
-\- Academic accuracy risk
+- Academic accuracy risk
 
-\- Incorrect solutions
+- Incorrect solutions
 
-\- Reduced faculty control
+- Reduced faculty control
 
-\- Trust concerns
+- Trust concerns
 
 
 
-\## Evidence Chain
+## Evidence Chain
 
 
 
@@ -168,25 +168,25 @@ AI Performance
 
 
 
-\## Simulated Learning Evidence
+## Simulated Learning Evidence
 
 
 
-\- 40–50 questions in approximately 2 hours previously
+- 40–50 questions in approximately 2 hours previously
 
-\- 200–250 questions possible in the simulated AI-assisted workflow
+- 200–250 questions possible in the simulated AI-assisted workflow
 
-\- Median production time: 120 → 65 minutes
+- Median production time: 120 → 65 minutes
 
-\- Accuracy: 94% → 91%
+- Accuracy: 94% → 91%
 
-\- Human acceptance: 78%
+- Human acceptance: 78%
 
-\- Regeneration: 3 → 2
+- Regeneration: 3 → 2
 
 
 
-\## Trade-off
+## Trade-off
 
 
 
@@ -194,7 +194,7 @@ The simulated workflow demonstrates significant productivity potential, but the 
 
 
 
-\## PM Decision
+## PM Decision
 
 
 
@@ -202,7 +202,7 @@ Continue the product direction while prioritizing first-pass academic quality an
 
 
 
-\## Important Evidence Note
+## Important Evidence Note
 
 
 
@@ -210,7 +210,7 @@ The numerical values in this learning exercise are simulated and must not be pre
 
 
 
-\## Key PM Principle
+## Key PM Principle
 
 
 

@@ -1,8 +1,8 @@
-\# PM Concept — User Journey Mapping
+# PM Concept — User Journey Mapping
 
 
 
-\## Definition
+## Definition
 
 
 
@@ -10,7 +10,7 @@ A User Journey represents the complete experience a user goes through while tryi
 
 
 
-\## PM Objective
+## PM Objective
 
 
 
@@ -18,7 +18,7 @@ Use the journey to identify user pain points, prioritize opportunities, and dete
 
 
 
-\## Framework
+## Framework
 
 
 
@@ -58,7 +58,7 @@ Expected Outcome
 
 
 
-\## Key Principle
+## Key Principle
 
 
 
@@ -70,7 +70,7 @@ Start with the user's journey.
 
 
 
-\## Journey vs Flow
+## Journey vs Flow
 
 
 
@@ -86,7 +86,7 @@ Focuses on how the user moves through the product.
 
 
 
-\## Application to AI Educational Video Generator
+## Application to AI Video Solution Generator
 
 
 
@@ -140,23 +140,23 @@ Major pain points:
 
 
 
-\- Manual production effort
+- Manual production effort
 
-\- Repetitive explanation work
+- Repetitive explanation work
 
-\- Manual annotation
+- Manual annotation
 
-\- Narration effort
+- Narration effort
 
-\- Synchronization effort
+- Synchronization effort
 
-\- Production inconsistency
+- Production inconsistency
 
-\- Scaling difficulty
+- Scaling difficulty
 
 
 
-\## Product Opportunity
+## Product Opportunity
 
 
 
@@ -164,7 +164,7 @@ Automate repetitive video-production activities while keeping faculty involved i
 
 
 
-\## PM Learning
+## PM Learning
 
 
 

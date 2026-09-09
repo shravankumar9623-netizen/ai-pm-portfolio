@@ -140,7 +140,7 @@ An evaluation dataset is a collection of representative inputs used to test an A
 
 
 
-For example, for your AI Educational Video Generator:
+For example, for your AI Video Solution Generator:
 
 
 

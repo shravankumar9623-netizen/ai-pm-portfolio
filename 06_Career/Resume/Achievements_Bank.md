@@ -4,7 +4,7 @@ This bank separates documented work from outcomes that still require validation.
 
 | Documented contribution | Capability | Evidence source | Validation status |
 |---|---|---|---|
-| Documented customer discovery for an AI educational-video workflow | Customer discovery | `Achievements.md`; flagship case study | Documented contribution |
+| Documented customer discovery for an AI video-solution workflow | Customer discovery | `Achievements.md`; flagship case study | Documented contribution |
 | Defined user pain points and MVP success criteria | Product sense and execution | `Achievements.md`; flagship case study | Targets require validation |
 | Conducted competitive analysis | Strategy | `Achievements.md`; flagship case study | Documented contribution |
 | Authored AI product requirements | Product execution | `Achievements.md`; flagship PRD | Documented contribution |

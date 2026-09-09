@@ -1,10 +1,10 @@
-\# User Journey Framework
+# User Journey Framework
 
-\## AI Educational Video Generator
+## AI Video Solution Generator
 
 
 
-\### User
+### User
 
 
 
@@ -26,11 +26,11 @@ Student
 
 
 
-\---
+---
 
 
 
-\### User Goal
+### User Goal
 
 
 
@@ -38,11 +38,11 @@ Create a high-quality educational video solution for a question that can be revi
 
 
 
-\---
+---
 
 
 
-\### Trigger
+### Trigger
 
 
 
@@ -50,11 +50,11 @@ A question or question set requires a video explanation.
 
 
 
-\---
+---
 
 
 
-\### Current Journey
+### Current Journey
 
 
 
@@ -98,11 +98,11 @@ Video is published
 
 
 
-\---
+---
 
 
 
-\### Major Pain Points
+### Major Pain Points
 
 
 
@@ -122,15 +122,15 @@ Video is published
 
 
 
-\---
+---
 
 
 
-\### Product Intervention
+### Product Intervention
 
 
 
-The AI Educational Video Generator introduces automation across the workflow:
+The AI Video Solution Generator introduces automation across the workflow:
 
 
 
@@ -162,23 +162,23 @@ Faculty review
 
 
 
-\---
+---
 
 
 
-\### Expected User Outcomes
+### Expected User Outcomes
 
 
 
-\- Reduced repetitive production effort
+- Reduced repetitive production effort
 
-\- Faster video creation
+- Faster video creation
 
-\- More consistent production
+- More consistent production
 
-\- Improved scalability
+- Improved scalability
 
-\- More time for faculty to focus on academic quality
+- More time for faculty to focus on academic quality
 
 
 
@@ -186,23 +186,23 @@ These are intended outcomes until validated with measured data.
 
 
 
-\---
+---
 
 
 
-\### Expected Business Outcomes
+### Expected Business Outcomes
 
 
 
-\- Increased content-production capacity
+- Increased content-production capacity
 
-\- Potential reduction in production cost
+- Potential reduction in production cost
 
-\- Faster publishing
+- Faster publishing
 
-\- Better utilization of content resources
+- Better utilization of content resources
 
-\- Ability to scale video solutions
+- Ability to scale video solutions
 
 
 
@@ -210,11 +210,11 @@ These are hypotheses/targets until supported by evidence.
 
 
 
-\---
+---
 
 
 
-\### Key Product Insight
+### Key Product Insight
 
 
 

@@ -1,8 +1,8 @@
-\# Portfolio Links
+# Portfolio Links
 
 
 
-\## GitHub
+## GitHub
 
 
 
@@ -10,11 +10,11 @@ https://github.com/shravankumar9623-netizen/ai-pm-portfolio
 
 
 
-\---
+---
 
 
 
-\## Production Website
+## Production Website
 
 
 
@@ -22,11 +22,11 @@ https://ai-pm-portfolio-coral-rho.vercel.app/
 
 
 
-\---
+---
 
 
 
-\## Vercel Dashboard
+## Vercel Dashboard
 
 
 
