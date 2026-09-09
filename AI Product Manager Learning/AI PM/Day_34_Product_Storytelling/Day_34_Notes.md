@@ -1350,7 +1350,7 @@ Future validation should include:
 
 
 
-- [x] Microsoft Learning
+- [x] structured platform learninging
 
 - [x] AI PM Concept — Product Storytelling
 

@@ -1,6 +1,6 @@
 # Day 47–100 Roadmap
 
-Every day uses three hours: **60 minutes Learn, 45 minutes Apply, 75 minutes Maintain**. Maintain includes the offline artifact, GitHub/website evidence, one Figma or UX activity where relevant, five interview questions, a LinkedIn insight draft, review, Microsoft Learn and Hugging Face Agents progress. Nothing is published without evidence and confidentiality review.
+Every day uses three hours: **60 minutes Learn, 45 minutes Apply, 75 minutes Maintain**. Maintain includes the offline artifact, repository/website evidence, one Figma or UX activity where relevant, five interview questions, a professional insight draft, review, structured platform learning and Hugging Face Agents progress. Nothing is published without evidence and confidentiality review.
 
 | Day | Learn | Apply | Maintain/career output |
 |---:|---|---|---|
@@ -17,10 +17,10 @@ Every day uses three hours: **60 minutes Learn, 45 minutes Apply, 75 minutes Mai
 | 57 | AI evaluation operations | Create evaluation scorecard | Interview drill and Figma state |
 | 58 | AI instrumentation | Design event taxonomy | Analytics narrative |
 | 59 | Product storytelling | Produce two-minute case pitch | LinkedIn insight draft |
-| 60 | Portfolio quality gates | Review Portfolio V1 | Resume evidence gate |
-| 61 | ATS resume principles | Draft private chronology | Resume V1 review |
-| 62 | Achievement evidence | Validate bullet claims | Remove unsupported outcomes |
-| 63 | LinkedIn positioning | Build headline/about options | Content calendar |
+| 60 | Portfolio quality gates | Review Portfolio V1 | Evidence-quality gate |
+| 61 | Concise professional writing | Summarize verified work | Evidence-language review |
+| 62 | Achievement evidence | Validate product claims | Remove unsupported outcomes |
+| 63 | Professional positioning | Build truthful profile options | Communication review |
 | 64 | Product writing | Draft a real decision story | Confidentiality review |
 | 65 | Product sense interviews | Solve one product case | Score answer |
 | 66 | Execution interviews | Diagnose a funnel | Story-bank update |
@@ -32,7 +32,7 @@ Every day uses three hours: **60 minutes Learn, 45 minutes Apply, 75 minutes Mai
 | 72 | Stakeholder management | Build conflict story | Evidence check |
 | 73 | Failure and learning | Build verified failure story | Reflection and revision |
 | 74 | Mock interviewing | Run mixed mock | Rubric and gap log |
-| 75 | Application readiness | Complete readiness gate | Begin qualified applications |
+| 75 | Capability readiness | Complete evidence and interview gate | Record learning gaps |
 | 76 | LLM architecture | Trace request lifecycle | Technical interview drill |
 | 77 | Retrieval systems | Evaluate retrieval failures | RAG case update |
 | 78 | Agent design | Bound tools and autonomy | Agent decision memo |
@@ -50,11 +50,11 @@ Every day uses three hours: **60 minutes Learn, 45 minutes Apply, 75 minutes Mai
 | 90 | Advanced AI PM case | Complete end-to-end case | Mock and score |
 | 91 | Portfolio evidence | Finalize flagship | Recruiter proof review |
 | 92 | Executive storytelling | Create concise narrative | Website refinement |
-| 93 | Product sense loop | Google-style practice | Tailored gap review |
-| 94 | Leadership principles | Amazon-style stories | STAR calibration |
-| 95 | Enterprise AI product | Microsoft-style case | Security/accessibility review |
+| 93 | Product sense loop | Advanced product practice | Capability gap review |
+| 94 | Leadership principles | Ownership and decision stories | STAR calibration |
+| 95 | Enterprise AI product | Enterprise product case | Security/accessibility review |
 | 96 | Full AI PM loop | Run complete mock | Remediation log |
-| 97 | Resume tailoring | Tailor to one real role | ATS and evidence check |
-| 98 | Networking | Build referral approach | Track real outreach privately |
-| 99 | Application analytics | Review funnel honestly | Improve targeting |
-| 100 | Career strategy | Evaluate 100-day outcomes | Create next 90-day plan |
+| 97 | Executive evidence writing | Tailor one product narrative | Evidence and clarity check |
+| 98 | Cross-functional communication | Practice stakeholder narrative | Record feedback privately |
+| 99 | Portfolio analytics | Review artifact engagement | Improve discoverability |
+| 100 | Learning strategy | Evaluate 100-day outcomes | Create the next capability plan |

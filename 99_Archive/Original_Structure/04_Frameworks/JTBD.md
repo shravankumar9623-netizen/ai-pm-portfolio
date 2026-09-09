@@ -54,7 +54,7 @@ Think about the **job the user is hiring the product to do**, not its features.
 
 ---
 
-# Google Maps (2 JTBD)
+# Navigation Product (2 JTBD)
 
 ### JTBD 1
 

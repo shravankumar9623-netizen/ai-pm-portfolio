@@ -19,4 +19,4 @@ Day 42 retains its substantive customer-discovery evidence work. Its role in the
 
 ## Days 47-100 direction
 
-Days 47 onward combine continued AI PM learning with portfolio conversion, interviews and career execution. The planned balance is 40% AI PM learning, 30% portfolio/case studies, 20% interview practice and 10% career/application work. Each day retains the three-hour Learn, Apply and Maintain rhythm.
+Days 47 onward combine continued AI PM learning with product evidence, case-study communication, technical depth and interview practice. Each day retains the three-hour Learn, Apply and Maintain rhythm.

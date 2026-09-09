@@ -17,7 +17,7 @@ Decrease dependency from faculties
 
 # Functional Requirements
 
-User should login using Google.
+User should log in using an approved identity provider.
 User should receive OTP.
 Admin should approve requests.
 User could able to create projects

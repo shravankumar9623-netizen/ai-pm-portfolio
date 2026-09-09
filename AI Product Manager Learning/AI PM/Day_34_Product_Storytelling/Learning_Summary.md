@@ -1094,7 +1094,7 @@ A strong Product Manager asks:
 
 - [x] Case Study Exercise
 
-- [x] Microsoft Learning
+- [x] structured platform learninging
 
 - [x] Portfolio work
 

@@ -50,7 +50,7 @@ User Goal
 Create an account and start using ChatGPT.
 
 User Action
-Registers using email or Google account and completes onboarding.
+Registers using email or approved SSO account and completes onboarding.
 
 Pain Point
 May hesitate due to payment concerns or a complicated signup process.
