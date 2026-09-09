@@ -1,3 +1,29 @@
+import type { Metadata } from "next";
+import Link from "next/link";
+
+export const metadata: Metadata = { title: "Resume", description: "Evidence-safe professional profile for AI Product Management, product strategy, evaluation, analytics, and workflow automation." };
+
 export default function Resume() {
-  return <div className="shell"><header className="page-head"><p className="eyebrow">Resume</p><h1>Shravan Kumar</h1><p className="lede">AI-focused product and operations professional working across EdTech, workflow automation, human-in-the-loop AI, and product systems.</p></header><section className="section"><div className="grid"><article className="card"><span className="tag">Product</span><h3>Core practice</h3><p>Discovery, strategy, requirements, prioritization, experiments, analytics, and operational delivery.</p></article><article className="card"><span className="tag">AI</span><h3>Applied AI PM</h3><p>RAG, agents, evaluation, human review, instrumentation, and quality-cost-latency trade-offs.</p></article><article className="card"><span className="tag">Technical</span><h3>Verified in accessible code</h3><p>Python data workflows, editable PowerPoint generation, TypeScript/React applications, APIs, role controls, persistence, and automated tests.</p></article></div></section><section className="section copy"><h2>Selected work</h2><ul className="list"><li>AI Video Solution Generator — evidence-safe product design portfolio</li><li>NGMC CheckIn — sanitized workforce operations platform profile</li><li>Leaderboard Generator — working Python analytics automation</li></ul><h2>Application status</h2><p>The public resume excludes unverified employment chronology, personal contact details, and unsupported metrics. A private application version must verify those fields before submission.</p></section></div>;
+  return (
+    <div className="shell">
+      <header className="page-head resume-head">
+        <div><p className="eyebrow">Resume</p><h1>Product judgment. Technical fluency. Operational execution.</h1></div>
+        <div className="resume-status"><span>PUBLIC PROFILE</span><strong>Evidence-safe</strong><p>This page excludes unverified chronology, private contact details, and unsupported metrics. No downloadable resume is published until those details are verified.</p></div>
+      </header>
+      <section className="resume-layout section">
+        <aside><p className="micro-label">Profile</p><h2>Shravan Kumar</h2><p>AI-focused product and operations professional</p><div className="resume-meta"><span>Focus</span><strong>AI products · EdTech · Workflow systems</strong><span>Experience</span><strong>6+ years stated across product/operations, program delivery, and EdTech</strong></div></aside>
+        <div className="resume-body">
+          <section><p className="eyebrow">Summary</p><h3>Turning customer and operational problems into measurable product workflows and responsible uses of AI.</h3></section>
+          <section><p className="eyebrow">Core capabilities</p><div className="skill-cloud">{["AI product strategy", "Product discovery", "PRDs", "Experimentation", "AI evaluation", "Product analytics", "Human-in-the-loop design", "Workflow automation", "Technical collaboration"].map((skill) => <span key={skill}>{skill}</span>)}</div></section>
+          <section><p className="eyebrow">Selected product evidence</p>
+            <div className="resume-project"><span>01</span><div><h3>AI Video Solution Generator</h3><p>Documented product design covering strategy, requirements, source grounding, human review, evaluation, instrumentation, and trade-offs. Implementation and production results are not claimed.</p></div></div>
+            <div className="resume-project"><span>02</span><div><h3>Workforce Operations Platform</h3><p>Working role-aware product code spanning operational workflows, permissions, tracking, approvals, and reporting. Adoption and impact are not claimed.</p></div></div>
+            <div className="resume-project"><span>03</span><div><h3>Leaderboard Generator</h3><p>Working Python automation that converts results data into editable presentation outputs with ranking, tie handling, and edge-case validation.</p></div></div>
+          </section>
+          <section><p className="eyebrow">Evidence policy</p><p>Portfolio claims are deliberately scoped to what documentation or accessible code can support. Simulated learning data is not presented as professional impact.</p></section>
+        </div>
+      </section>
+      <section className="section section-cta"><p>See how these capabilities become product decisions.</p><Link className="button" href="/case-studies">View case studies <span aria-hidden="true">→</span></Link></section>
+    </div>
+  );
 }
