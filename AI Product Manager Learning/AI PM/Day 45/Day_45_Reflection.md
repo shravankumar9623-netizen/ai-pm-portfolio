@@ -6,19 +6,19 @@
 
 
 
-1\. Product analytics is about decisions, not dashboards.
+1. Product analytics is about decisions, not dashboards.
 
-2\. Instrumentation allows important product behaviour to be measured.
+2. Instrumentation allows important product behaviour to be measured.
 
-3\. Metrics are signals, not explanations.
+3. Metrics are signals, not explanations.
 
-4\. AI products require quality, behaviour, system and safety metrics.
+4. AI products require quality, behaviour, system and safety metrics.
 
-5\. Regeneration and editing can act as signals of AI-output quality.
+5. Regeneration and editing can act as signals of AI-output quality.
 
-6\. Increasing AI output volume does not automatically mean increasing product value.
+6. Increasing AI output volume does not automatically mean increasing product value.
 
-7\. PM decisions should balance quality, cost, latency and user value.
+7. PM decisions should balance quality, cost, latency and user value.
 
 
 

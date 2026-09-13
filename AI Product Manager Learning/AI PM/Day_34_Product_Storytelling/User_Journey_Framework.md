@@ -106,19 +106,19 @@ Video is published
 
 
 
-1\. Manual script preparation
+1. Manual script preparation
 
-2\. Manual annotation
+2. Manual annotation
 
-3\. Narration effort
+3. Narration effort
 
-4\. Synchronization effort
+4. Synchronization effort
 
-5\. Repetitive production work
+5. Repetitive production work
 
-6\. Production inconsistency
+6. Production inconsistency
 
-7\. Difficulty scaling the process across large volumes
+7. Difficulty scaling the process across large volumes
 
 
 

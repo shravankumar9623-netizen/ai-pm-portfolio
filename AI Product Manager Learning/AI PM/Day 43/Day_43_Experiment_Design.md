@@ -782,25 +782,25 @@ A strong structure is:
 
 
 
-1\. Define the user problem.
+1. Define the user problem.
 
-2\. Identify the riskiest assumption.
+2. Identify the riskiest assumption.
 
-3\. Convert it into a measurable hypothesis.
+3. Convert it into a measurable hypothesis.
 
-4\. Establish the baseline.
+4. Establish the baseline.
 
-5\. Define the experiment.
+5. Define the experiment.
 
-6\. Select a primary metric.
+6. Select a primary metric.
 
-7\. Add secondary and guardrail metrics.
+7. Add secondary and guardrail metrics.
 
-8\. Define decision rules before seeing the result.
+8. Define decision rules before seeing the result.
 
-9\. Analyze the outcome.
+9. Analyze the outcome.
 
-10\. Decide whether to continue, change, or stop.
+10. Decide whether to continue, change, or stop.
 
 
 

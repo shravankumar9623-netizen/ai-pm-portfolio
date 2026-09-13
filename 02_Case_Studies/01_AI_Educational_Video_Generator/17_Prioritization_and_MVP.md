@@ -46,17 +46,17 @@ Prioritization frameworks should structure decision-making rather than replace p
 
 
 
-1\. AI-assisted script generation
+1. AI-assisted script generation
 
-2\. Automated annotation
+2. Automated annotation
 
-3\. AI narration
+3. AI narration
 
-4\. Narration and visual synchronization
+4. Narration and visual synchronization
 
-5\. AI-assisted quality review
+5. AI-assisted quality review
 
-6\. Faculty review and control workflow
+6. Faculty review and control workflow
 
 
 

@@ -22,9 +22,9 @@ The two major concepts covered were:
 
 
 
-1\. AI Product Storytelling
+1. AI Product Storytelling
 
-2\. User Journey Mapping
+2. User Journey Mapping
 
 
 
@@ -380,19 +380,19 @@ The PM should first establish:
 
 
 
-1\. Is there a meaningful user problem?
+1. Is there a meaningful user problem?
 
-2\. Is the problem frequent?
+2. Is the problem frequent?
 
-3\. Is the problem expensive or time-consuming?
+3. Is the problem expensive or time-consuming?
 
-4\. Can AI perform the task effectively?
+4. Can AI perform the task effectively?
 
-5\. Can the quality of AI output be measured?
+5. Can the quality of AI output be measured?
 
-6\. Is human review required?
+6. Is human review required?
 
-7\. Does automation create meaningful user or business value?
+7. Does automation create meaningful user or business value?
 
 
 

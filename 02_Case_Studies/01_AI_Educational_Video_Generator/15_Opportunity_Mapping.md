@@ -34,21 +34,21 @@ Faculty/content teams currently need to:
 
 
 
-1\. Review the question.
+1. Review the question.
 
-2\. Prepare the explanation.
+2. Prepare the explanation.
 
-3\. Create or modify instructional content.
+3. Create or modify instructional content.
 
-4\. Prepare annotations.
+4. Prepare annotations.
 
-5\. Record or generate narration.
+5. Record or generate narration.
 
-6\. Synchronize narration and visual explanation.
+6. Synchronize narration and visual explanation.
 
-7\. Review the final video.
+7. Review the final video.
 
-8\. Publish the completed explanation.
+8. Publish the completed explanation.
 
 
 

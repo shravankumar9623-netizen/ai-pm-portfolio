@@ -86,11 +86,11 @@ Decision
 
 
 
-1\. Faculty experience meaningful friction in manual educational video production.
+1. Faculty experience meaningful friction in manual educational video production.
 
-2\. Faculty are willing to use AI-assisted production workflows.
+2. Faculty are willing to use AI-assisted production workflows.
 
-3\. Faculty will accept AI-generated content when appropriate review controls are available.
+3. Faculty will accept AI-generated content when appropriate review controls are available.
 
 
 
@@ -98,13 +98,13 @@ Decision
 
 
 
-1\. AI can generate teaching-oriented scripts from appropriate source material.
+1. AI can generate teaching-oriented scripts from appropriate source material.
 
-2\. Automated annotation can reduce manual production effort.
+2. Automated annotation can reduce manual production effort.
 
-3\. AI narration can reduce narration-production effort.
+3. AI narration can reduce narration-production effort.
 
-4\. The system can maintain alignment between narration and visual explanation.
+4. The system can maintain alignment between narration and visual explanation.
 
 
 
@@ -112,11 +112,11 @@ Decision
 
 
 
-1\. Generated explanations can meet predefined educational quality standards.
+1. Generated explanations can meet predefined educational quality standards.
 
-2\. AI-generated content can be reviewed efficiently.
+2. AI-generated content can be reviewed efficiently.
 
-3\. Quality controls can identify important generation errors before publication.
+3. Quality controls can identify important generation errors before publication.
 
 
 
@@ -124,9 +124,9 @@ Decision
 
 
 
-1\. Reduced production effort creates meaningful value for the target organization.
+1. Reduced production effort creates meaningful value for the target organization.
 
-2\. The value created by the workflow can justify the operational cost of AI generation.
+2. The value created by the workflow can justify the operational cost of AI generation.
 
 
 
@@ -350,19 +350,19 @@ The initial validation process should combine:
 
 
 
-1\. User interviews
+1. User interviews
 
-2\. Workflow observation
+2. Workflow observation
 
-3\. Controlled task comparisons
+3. Controlled task comparisons
 
-4\. Expert quality review
+4. Expert quality review
 
-5\. Prototype testing
+5. Prototype testing
 
-6\. AI evaluation
+6. AI evaluation
 
-7\. Production-efficiency measurement
+7. Production-efficiency measurement
 
 
 

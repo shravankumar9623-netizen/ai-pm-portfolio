@@ -66,21 +66,21 @@ Enable an authorized content creator to generate an editable educational script 
 
 
 
-1\. User selects or uploads an approved source.
+1. User selects or uploads an approved source.
 
-2\. System validates the source.
+2. System validates the source.
 
-3\. System generates a draft educational script.
+3. System generates a draft educational script.
 
-4\. System performs predefined quality checks.
+4. System performs predefined quality checks.
 
-5\. User reviews the generated script.
+5. User reviews the generated script.
 
-6\. User edits the script if required.
+6. User edits the script if required.
 
-7\. User approves the final version.
+7. User approves the final version.
 
-8\. Approved script moves to the next production stage.
+8. Approved script moves to the next production stage.
 
 
 
@@ -348,15 +348,15 @@ The MVP should demonstrate:
 
 
 
-1\. Reduced script-preparation effort.
+1. Reduced script-preparation effort.
 
-2\. Acceptable generated-script quality.
+2. Acceptable generated-script quality.
 
-3\. Successful human review and approval.
+3. Successful human review and approval.
 
-4\. Reliable failure handling.
+4. Reliable failure handling.
 
-5\. Evidence that the workflow is valuable enough to justify further development.
+5. Evidence that the workflow is valuable enough to justify further development.
 
 
 

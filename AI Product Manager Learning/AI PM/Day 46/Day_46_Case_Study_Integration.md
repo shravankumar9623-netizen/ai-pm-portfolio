@@ -26,41 +26,41 @@ Learn how to integrate customer discovery, problem definition, experimentation, 
 
 
 
-1\. Context
+1. Context
 
-2\. Problem
+2. Problem
 
-3\. Users
+3. Users
 
-4\. Evidence
+4. Evidence
 
-5\. Opportunity
+5. Opportunity
 
-6\. Product Goal
+6. Product Goal
 
-7\. Key Decisions
+7. Key Decisions
 
-8\. Rejected Alternatives
+8. Rejected Alternatives
 
-9\. MVP
+9. MVP
 
-10\. AI Approach
+10. AI Approach
 
-11\. Experiment
+11. Experiment
 
-12\. AI Evaluation
+12. AI Evaluation
 
-13\. Product Analytics
+13. Product Analytics
 
-14\. Results
+14. Results
 
-15\. Trade-offs
+15. Trade-offs
 
-16\. Feedback
+16. Feedback
 
-17\. Iteration
+17. Iteration
 
-18\. Next Steps
+18. Next Steps
 
 
 
@@ -120,15 +120,15 @@ Question Paper / Source
 
 
 
-1\. Keep human review in the workflow.
+1. Keep human review in the workflow.
 
-2\. Support higher-volume processing.
+2. Support higher-volume processing.
 
-3\. Include question-to-solution matching.
+3. Include question-to-solution matching.
 
-4\. Allow regeneration and refinement.
+4. Allow regeneration and refinement.
 
-5\. Use faculty feedback for continuous improvement.
+5. Use faculty feedback for continuous improvement.
 
 
 

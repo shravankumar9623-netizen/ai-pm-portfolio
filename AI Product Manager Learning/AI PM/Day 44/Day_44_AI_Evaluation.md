@@ -132,7 +132,7 @@ AI PM
 
 
 
-1\. Evaluation Dataset
+1. Evaluation Dataset
 
 
 
@@ -166,7 +166,7 @@ The dataset should represent realistic usage scenarios.
 
 
 
-2\. Evaluation Case
+2. Evaluation Case
 
 
 
@@ -198,7 +198,7 @@ Input	Expected	Output	Score
 
 Photosynthesis lesson	Accurate explanation	Mostly accurate	4/5
 
-3\. Evaluation Criteria
+3. Evaluation Criteria
 
 
 
@@ -270,7 +270,7 @@ Does the output create unacceptable risk?
 
 
 
-4\. Groundedness vs Accuracy
+4. Groundedness vs Accuracy
 
 
 
@@ -326,7 +326,7 @@ For a source-based educational product, groundedness can therefore become a crit
 
 
 
-5\. Hallucination
+5. Hallucination
 
 
 
@@ -358,7 +358,7 @@ If the source does not support the latter details, those claims require investig
 
 
 
-6\. Human Evaluation
+6. Human Evaluation
 
 
 
@@ -392,7 +392,7 @@ Human evaluation should use a consistent rubric, not simply "I think this answer
 
 
 
-7\. Automated Evaluation
+7. Automated Evaluation
 
 
 
@@ -438,7 +438,7 @@ But it may not capture every aspect of human-perceived quality.
 
 
 
-8\. LLM-as-a-Judge
+8. LLM-as-a-Judge
 
 
 
@@ -494,7 +494,7 @@ Therefore, LLM-as-a-judge should be validated against human judgments for import
 
 
 
-9\. AI Evaluation Is Multi-Dimensional
+9. AI Evaluation Is Multi-Dimensional
 
 
 

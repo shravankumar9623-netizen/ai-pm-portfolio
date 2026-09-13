@@ -92,21 +92,21 @@ The PM must explain the product in a way that is understandable without unnecess
 
 
 
-1\. Start with the problem.
+1. Start with the problem.
 
-2\. Explain who experiences the problem.
+2. Explain who experiences the problem.
 
-3\. Explain why the problem matters.
+3. Explain why the problem matters.
 
-4\. Present the solution.
+4. Present the solution.
 
-5\. Explain the expected impact.
+5. Explain the expected impact.
 
-6\. Support claims with evidence.
+6. Support claims with evidence.
 
-7\. Avoid unnecessary technical jargon.
+7. Avoid unnecessary technical jargon.
 
-8\. Clearly distinguish targets from validated results.
+8. Clearly distinguish targets from validated results.
 
 
 
@@ -1036,15 +1036,15 @@ Answer:
 
 
 
-1\. What is the user's biggest problem?
+1. What is the user's biggest problem?
 
-2\. Where does the current journey create the most friction?
+2. Where does the current journey create the most friction?
 
-3\. Which problem should be solved first?
+3. Which problem should be solved first?
 
-4\. Why is AI appropriate for this problem?
+4. Why is AI appropriate for this problem?
 
-5\. How would we measure whether the solution works?
+5. How would we measure whether the solution works?
 
 
 
