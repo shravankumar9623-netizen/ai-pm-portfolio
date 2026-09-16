@@ -1,26 +1,34 @@
 # QPG Tagging Automation — Evidence Status
 
-## Known from the supplied description
+## Product and users
 
-The described desktop workflow supports spreadsheet-based bulk tagging, AI-proposed tags for untagged questions, extraction of tags from question PDFs and bulk attachment of video solutions. The AI is described as selecting only from an official taxonomy, with a dry run and explicit human WRITE action.
+QPG Tagging Automation is a desktop workflow for DTP and faculty users. It supports question ingestion from DOCX/PDF, structured Chapter/Topic/Subtopic/category tagging, and bulk attachment of video solutions.
 
-## Evidence classification
+## Verified implementation evidence
 
-- Product description: UNVERIFIED user-provided account
-- Implementation language and Tkinter packaging: UNVERIFIED because source was not located
-- Official-taxonomy constraint: UNVERIFIED
-- Human approval before persistence: UNVERIFIED
-- Manual and assisted timing estimates: UNVERIFIED
-- Adoption, volume and business outcomes: NOT AVAILABLE
+A separate local source workspace was audited on 15 September 2026. It contains:
 
-## Source search result
+- Python/Tkinter application code
+- DOCX/PDF question-ingestion logic
+- taxonomy-loading and controlled tagging flows
+- spreadsheet-based bulk operations
+- AI-assisted tag proposals
+- preview and validation interfaces
+- dry-run execution
+- explicit write controls
+- packaged desktop executables and user guides
+- sample files and generated artifacts
 
-No QPG implementation source was found in the AI-PM-Portfolio, Leaderboard Generator or NGMC CheckIn workspaces available during remediation.
+This implementation evidence proves that the product workflow exists. It does not independently prove adoption scale, productivity improvement, tagging accuracy, business outcomes, or exact project dates.
+
+## Ownership and disclosure
+
+The portfolio owner confirms the AI Product Manager role, complete workflow and UI/UX design, real use, and permission to disclose a sanitized product description. Exact dates remain unconfirmed and are therefore omitted.
 
 ## Public-use decision
 
-Do not use QPG metrics as resume achievements. The workflow can be mentioned only as an evidence-pending internal tool concept until code, a sanitized demonstration, version history or an approved operating artifact is located.
+The product may be presented as a user-confirmed, implementation-backed project. Public material must exclude credentials, private URLs, source datasets, question content, taxonomy exports, user identities, and organization-sensitive implementation details.
 
-## Proof required
+## Outcome boundary
 
-Locate the source repository or packaged application; verify taxonomy validation and write controls; use synthetic questions for screenshots; document ownership and disclosure permission; and run a reproducible timing study before publishing productivity claims.
+Do not publish the previously discussed time or productivity estimates as verified results. A reproducible timing study, quality criteria, sample definition, and disclosure approval are still required before quantified impact can be used.

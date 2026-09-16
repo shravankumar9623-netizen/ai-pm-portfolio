@@ -9,11 +9,11 @@ const mono = Geist_Mono({ subsets: ["latin"], variable: "--font-mono" });
 export const metadata: Metadata = {
   metadataBase: new URL("https://ai-pm-portfolio-coral-rho.vercel.app"),
   title: { default: "Shravan Kumar | AI Product Manager", template: "%s | Shravan Kumar" },
-  description: "AI Product Management portfolio focused on product strategy, AI evaluation, experimentation, analytics, workflow automation, and human-in-the-loop systems.",
-  keywords: ["AI Product Manager", "AI Product Management", "Product Strategy", "AI Evaluation", "Product Analytics", "Workflow Automation"],
+  description: "AI Product Manager building AI products through product strategy, workflow design, evaluation, analytics, automation, and hands-on delivery.",
+  keywords: ["AI Product Manager", "AI Product Management", "Product Management", "AI Products", "Product Strategy", "AI Evaluation", "Product Analytics", "Workflow Automation"],
   openGraph: {
     title: "Shravan Kumar | AI Product Manager",
-    description: "Building useful, measurable, and trustworthy AI product experiences.",
+    description: "Building AI products from real user problems to product strategy, AI workflows, evaluation, and delivery.",
     type: "website",
   },
 };
@@ -24,12 +24,14 @@ const links = [["About", "/about"], ["Case Studies", "/case-studies"], ["Resume"
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
-    <html lang="en" className={geist.variable + " " + mono.variable}>
+    <html lang="en" className={`${geist.variable} ${mono.variable}`}>
       <body>
         <a className="skip-link" href="#main-content">Skip to content</a>
         <header className="site-header">
           <div className="shell nav">
-            <Link className="brand" href="/" aria-label="Shravan Kumar, home">SK<span>/</span>PM</Link>
+            <Link className="brand" href="/" aria-label="Shravan Kumar, home">
+              <strong>Shravan Kumar</strong><span>AI Product Manager</span>
+            </Link>
             <nav className="navlinks" aria-label="Primary navigation">
               {links.map(([label, href]) => <Link key={href} href={href}>{label}</Link>)}
             </nav>

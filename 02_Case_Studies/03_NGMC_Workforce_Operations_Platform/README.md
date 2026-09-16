@@ -2,7 +2,7 @@
 
 ## Evidence-safe project profile
 
-This profile is based on accessible local source code. It intentionally omits private identities, URLs, credentials, datasets and internal operating details. Ownership scope and permission for public disclosure must be confirmed before using it as a formal employment achievement.
+This profile is based on accessible local source code and user-confirmed product ownership. It intentionally omits private identities, URLs, credentials, datasets and internal operating details. Public disclosure is approved only in this sanitized form.
 
 ## Product
 

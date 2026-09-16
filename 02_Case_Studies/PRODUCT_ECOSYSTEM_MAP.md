@@ -4,8 +4,8 @@
 
 - Leaderboard Generator is an independent local result-analysis and presentation product.
 - NGMC CheckIn is an independent workforce operations platform. Attendance, check-in/out and productivity are modules of that system.
-- AI Video Solution Generator is a documentation-led product initiative in this portfolio; implementation source is not included.
-- QPG Tagging Automation is evidence-pending because its source was not located.
+- AI Video Solution Generator is the flagship AI product; local source, tests and artifacts support implementation, while public materials remain sanitized.
+- QPG Tagging Automation is an implementation-backed product with user-confirmed workflow ownership and real use; dates and quantified outcomes remain unverified.
 
 ## Conceptual educational workflow
 

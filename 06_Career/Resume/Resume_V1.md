@@ -1,3 +1,7 @@
+# Resume V1 — Superseded Draft
+
+This file is retained for history. The current master resume is [`Resume/Resume_Master.md`](../../Resume/Resume_Master.md), with matching DOCX and PDF artifacts.
+
 # Shravan Kumar
 
 AI Product Management | EdTech | Product Operations | AI-enabled Workflows
@@ -19,7 +23,7 @@ AI-focused product and operations professional with repository-documented experi
 - Designed source-grounded RAG and evaluation approaches covering correctness, groundedness, human acceptance, latency and cost.
 - Established human approval, traceability and failure handling as core product requirements.
 - Maintained explicit separation between targets, simulated learning data and verified outcomes.
-- Implementation source is not included in the public portfolio; no production impact is claimed.
+- Local implementation source, tests and artifacts now support the product workflow; no unvalidated production impact is claimed.
 
 ### NGMC CheckIn / Workforce Operations Platform — Evidence-Safe Profile
 
@@ -53,4 +57,4 @@ Hugging Face Agents — Unit 1 artifact is stored in the portfolio certification
 
 ## Application Gate
 
-This is a complete evidence-safe portfolio resume, but it is not ready for employer submission until private chronology, contact information, education, certification verification and ownership scope are confirmed.
+This draft has been superseded by the verified master resume. Do not use it for applications.

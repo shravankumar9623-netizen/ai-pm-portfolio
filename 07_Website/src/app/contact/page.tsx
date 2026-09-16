@@ -8,12 +8,12 @@ export default function Contact() {
     <div className="shell">
       <header className="contact-hero">
         <p className="eyebrow">Contact</p>
-        <h1>Have a product problem where AI, workflow, and trust intersect?</h1>
-        <p className="lede">I’m interested in thoughtful product conversations about AI-enabled experiences, evaluation, analytics, and workflow automation.</p>
+        <h1>Let’s talk about AI products, workflows, and evidence-led execution.</h1>
+        <p className="lede">Connect through the verified public channels below or explore the product work first.</p>
       </header>
       <section className="contact-grid section">
-        <article className="contact-primary"><span className="contact-icon" aria-hidden="true">↗</span><p className="micro-label">Verified public channel</p><h2>GitHub</h2><p>Review the repository, product artifacts, and working implementation evidence.</p><Link className="button light-button" href="https://github.com/shravankumar9623-netizen">Open GitHub <span aria-hidden="true">↗</span></Link></article>
-        <article className="contact-note"><p className="eyebrow">A deliberate contact surface</p><h3>Only verified public information belongs here.</h3><p>Email and LinkedIn are not published until their exact public details are confirmed. This avoids invented or private contact information.</p><Link className="text-link" href="/case-studies">Explore case studies <span aria-hidden="true">→</span></Link></article>
+        <article className="contact-primary"><span className="contact-icon" aria-hidden="true">↗</span><p className="micro-label">Professional profile</p><h2>LinkedIn</h2><p>Connect for product conversations about AI strategy, evaluation, analytics, automation, and end-to-end execution.</p><a className="button light-button" href="https://www.linkedin.com/in/m-shravan-kumar-5939a4198" target="_blank" rel="noreferrer">Open LinkedIn <span aria-hidden="true">↗</span></a></article>
+        <article className="contact-note"><p className="eyebrow">Product evidence</p><h3>Review the work on GitHub.</h3><p>Explore the portfolio structure, evidence register, case studies, and implementation-backed product summaries.</p><a className="text-link" href="https://github.com/shravankumar9623-netizen" target="_blank" rel="noreferrer">Open GitHub <span aria-hidden="true">↗</span></a><br /><Link className="text-link" href="/case-studies">View case studies <span aria-hidden="true">→</span></Link></article>
       </section>
     </div>
   );

@@ -1,22 +1,11 @@
 # Master Resume Source
 
-This master source contains only public, evidence-safe positioning. The application version must add privately verified contact details, employer/title chronology, education and authorized quantified outcomes.
+The current evidence-driven master resume is maintained in the canonical `Resume/` directory:
 
-## Positioning
+- [Resume_Master.md](../../Resume/Resume_Master.md)
+- `Resume/Resume_Master.docx`
+- `Resume/Resume_Master.pdf`
 
-AI-focused product and operations professional with more than six years of stated experience across product/operations, program delivery and EdTech. Portfolio evidence demonstrates product documentation, human-in-the-loop AI design, evaluation thinking, Python automation and full-stack operational workflows.
+It uses the confirmed professional chronology and product-ownership boundaries for the AI Video Solution Generator, Workforce Operations Platform, QPG Tagging Automation, and Leaderboard Generator.
 
-## Approved project evidence
-
-- AI Video Solution Generator: product design, PRD, architecture, RAG, evaluation and experimentation documentation; implementation and production results unverified.
-- NGMC CheckIn: substantial local application code for workforce operations; confidentiality and ownership approval required for public claims.
-- Leaderboard Generator: local Python application with analytics, PowerPoint generation and automated tests.
-- QPG Tagging Automation: evidence pending; exclude from achievement bullets until source is located.
-
-## Approved capability language
-
-Use “designed,” “documented,” “implemented,” or “validated in code” only where the Evidence Register supports it. Never convert simulated learning metrics into impact bullets.
-
-## Required private application data
-
-Before submission, validate and insert: email, LinkedIn, location, employers, formal titles, start/end dates, role scope, education, certification identifier and authorized outcomes. Their absence is a documented verification gate, not a public placeholder.
+The master resume intentionally excludes historical adoption, productivity, cost, retention, revenue, completion, and model-performance figures until their measurement and disclosure approval are confirmed.

@@ -1,26 +1,32 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 
-export const metadata: Metadata = { title: "Resume", description: "Evidence-safe professional profile for AI Product Management, product strategy, evaluation, analytics, and workflow automation." };
+export const metadata: Metadata = { title: "Resume", description: "M. Shravan Kumar — AI Product Manager with experience across AI products, product strategy, automation, evaluation, analytics, and end-to-end delivery." };
+
+const products = [
+  ["01", "AI Video Solution Generator", "Initiated and led discovery, requirements, workflow and UX, AI/model decisions, evaluation, validation, and implementation contribution."],
+  ["02", "Workforce Operations Platform", "Initiated and defined a role-aware operational product; owned requirements, UI/UX, data interlinking, AI-related functionality, testing, and validation."],
+  ["03", "QPG Tagging Automation", "Designed the workflow and UI/UX for controlled question ingestion, taxonomy tagging, video attachment, preview, dry-run, and explicit write approval."],
+  ["04", "Leaderboard Generator", "Initiated, designed, and built a local Python/Streamlit analytics-to-PowerPoint product with correctness and layout validation."],
+];
 
 export default function Resume() {
   return (
     <div className="shell">
       <header className="page-head resume-head">
-        <div><p className="eyebrow">Resume</p><h1>Product judgment. Technical fluency. Operational execution.</h1></div>
-        <div className="resume-status"><span>PUBLIC PROFILE</span><strong>Evidence-safe</strong><p>This page excludes unverified chronology, private contact details, and unsupported metrics. No downloadable resume is published until those details are verified.</p></div>
+        <div><p className="eyebrow">Resume</p><h1>Product judgment. AI depth. Hands-on execution.</h1></div>
+        <div className="resume-status"><span>MASTER RESUME</span><strong>Evidence-driven</strong><p>Unsupported impact numbers and confidential product details are intentionally excluded.</p><a className="button resume-download" href="/Resume_Master.pdf" download>Download PDF <span aria-hidden="true">↓</span></a></div>
       </header>
       <section className="resume-layout section">
-        <aside><p className="micro-label">Profile</p><h2>Shravan Kumar</h2><p>AI-focused product and operations professional</p><div className="resume-meta"><span>Focus</span><strong>AI products · EdTech · Workflow systems</strong><span>Experience</span><strong>6+ years stated across product/operations, program delivery, and EdTech</strong></div></aside>
+        <aside><p className="micro-label">Profile</p><h2>Shravan Kumar</h2><p>AI Product Manager</p><div className="resume-meta"><span>Location</span><strong>New Delhi, India</strong><span>Focus</span><strong>AI products · Product strategy · Automation · Analytics · Evaluation</strong><span>Profiles</span><strong><a href="https://www.linkedin.com/in/m-shravan-kumar-5939a4198" target="_blank" rel="noreferrer">LinkedIn ↗</a> · <a href="https://github.com/shravankumar9623-netizen" target="_blank" rel="noreferrer">GitHub ↗</a></strong></div></aside>
         <div className="resume-body">
-          <section><p className="eyebrow">Summary</p><h3>Turning customer and operational problems into measurable product workflows and responsible uses of AI.</h3></section>
-          <section><p className="eyebrow">Core capabilities</p><div className="skill-cloud">{["AI product strategy", "Product discovery", "PRDs", "Experimentation", "AI evaluation", "Product analytics", "Human-in-the-loop design", "Workflow automation", "Technical collaboration"].map((skill) => <span key={skill}>{skill}</span>)}</div></section>
-          <section><p className="eyebrow">Selected product evidence</p>
-            <div className="resume-project"><span>01</span><div><h3>AI Video Solution Generator</h3><p>Documented product design covering strategy, requirements, source grounding, human review, evaluation, instrumentation, and trade-offs. Implementation and production results are not claimed.</p></div></div>
-            <div className="resume-project"><span>02</span><div><h3>Workforce Operations Platform</h3><p>Working role-aware product code spanning operational workflows, permissions, tracking, approvals, and reporting. Adoption and impact are not claimed.</p></div></div>
-            <div className="resume-project"><span>03</span><div><h3>Leaderboard Generator</h3><p>Working Python automation that converts results data into editable presentation outputs with ranking, tie handling, and edge-case validation.</p></div></div>
+          <section><p className="eyebrow">Summary</p><h3>AI Product Manager with established experience across product management, EdTech, operations, and AI-enabled workflow automation.</h3><p>I move from user problems through strategy, requirements, workflow and UX design, AI/model decisions, evaluation, analytics, testing, and delivery.</p></section>
+          <section><p className="eyebrow">Core capabilities</p><div className="skill-cloud">{["AI Product Management", "Product strategy", "Product discovery", "PRDs", "Roadmaps", "Generative AI", "Human-in-the-loop design", "AI evaluation", "Experimentation", "Product analytics", "Workflow automation", "Technical collaboration"].map((skill) => <span key={skill}>{skill}</span>)}</div></section>
+          <section><p className="eyebrow">Professional experience</p><h3>Product leadership across Physics Wallah, Unacademy, Yami Cosmo Services, and BYJU&apos;S.</h3><p>The downloadable master resume contains the chronology and evidence-safe role summaries without retaining historical metrics that still require validation.</p></section>
+          <section><p className="eyebrow">Selected AI products</p>
+            {products.map(([number, title, text]) => <div className="resume-project" key={title}><span>{number}</span><div><h3>{title}</h3><p>{text}</p></div></div>)}
           </section>
-          <section><p className="eyebrow">Evidence policy</p><p>Portfolio claims are deliberately scoped to what documentation or accessible code can support. Simulated learning data is not presented as professional impact.</p></section>
+          <section><p className="eyebrow">Evidence policy</p><p>Implementation evidence, product/design evidence, and user-confirmed ownership are treated as separate claim types. Simulated learning data and unvalidated adoption or business metrics are not presented as professional outcomes.</p></section>
         </div>
       </section>
       <section className="section section-cta"><p>See how these capabilities become product decisions.</p><Link className="button" href="/case-studies">View case studies <span aria-hidden="true">→</span></Link></section>
