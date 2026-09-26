@@ -10,7 +10,7 @@ export default function Home() {
         <div className="hero-copy">
           <p className="eyebrow">Shravan Kumar · AI Product Manager</p>
           <h1>Building AI products from real problems to <em>delivery.</em></h1>
-          <p className="lede">Building AI products from real user problems to product strategy, AI workflows, evaluation and delivery.</p>
+          <p className="lede">AI Product Manager with 8+ years across product management, EdTech, content strategy, product operations, project execution, and AI-enabled workflow automation.</p>
           <div className="actions">
             <Link className="button" href="/case-studies">View Case Studies <span aria-hidden="true">↗</span></Link>
             <Link className="button secondary" href="/resume">View Resume</Link>
@@ -32,7 +32,7 @@ export default function Home() {
       </section>
 
       <section className="signal-strip" aria-label="Areas of focus">
-        <div className="shell signal-row"><span>Strategy</span><span>Discovery</span><span>AI workflows</span><span>Evaluation</span><span>Analytics</span><span>Automation</span></div>
+        <div className="shell signal-row"><span>Strategy</span><span>Discovery</span><span>AI workflows</span><span>Evaluation</span><span>Analytics</span><span>Automation</span><span>EdTech</span></div>
       </section>
 
       <section className="section shell" id="capabilities">

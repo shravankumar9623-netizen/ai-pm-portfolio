@@ -11,10 +11,10 @@ The safest workflow is to clone the existing GitHub repository into a separate d
 ### 1. Clone the remote into a separate comparison directory
 
 ```powershell
-cd "C:\Users\ShravanKumar\Desktop\Shravan Kumar"
+cd "<portfolio-parent>"
 git clone "https://github.com/shravankumar9623-netizen/ai-pm-portfolio.git" "ai-pm-portfolio-synced"
-git -C "C:\Users\ShravanKumar\Desktop\Shravan Kumar\ai-pm-portfolio-synced" status
-git -C "C:\Users\ShravanKumar\Desktop\Shravan Kumar\ai-pm-portfolio-synced" log -20 --oneline
+git -C "<portfolio-parent>/ai-pm-portfolio-synced" status
+git -C "<portfolio-parent>/ai-pm-portfolio-synced" log -20 --oneline
 ```
 
 Copy or merge content only after manually deciding which local-only, remote-only, and modified paths should survive. No automatic copy command is supplied because the audit found materially different structures and a blanket copy could destroy intentional remote content.
@@ -26,7 +26,7 @@ Use this only after reviewing the separate clone.
 ### 2. Initialize Git
 
 ```powershell
-cd "C:\Users\ShravanKumar\Desktop\Shravan Kumar\AI-PM-Portfolio"
+cd "<portfolio-root>"
 git init
 ```
 
@@ -108,7 +108,7 @@ Select `main` as the production branch only after the repository contains a depl
 After a Vercel project exists and the Vercel CLI is installed/authenticated, inspect and link it:
 
 ```powershell
-cd "C:\Users\ShravanKumar\Desktop\Shravan Kumar\AI-PM-Portfolio"
+cd "<portfolio-root>"
 vercel link
 vercel project inspect
 vercel ls

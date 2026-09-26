@@ -1,6 +1,6 @@
 # Shravan Kumar — AI Product Manager
 
-AI Product Manager with established experience across product management, EdTech, product operations, and AI-enabled workflow automation. This portfolio shows how I move from real user problems to product strategy, AI workflows, evaluation, analytics, and delivery.
+AI Product Manager with 8+ years of experience across product management, EdTech, content strategy, project execution, product operations, and AI-enabled workflow automation. This portfolio shows how I translate real user and operating problems into product strategy, requirements, AI workflows, evaluation, analytics, and delivery.
 
 ## Selected AI Products
 
@@ -30,6 +30,7 @@ I initiated and led a faculty-reviewed AI workflow that moves from source/questi
 
 - Product discovery, user research, problem definition, JTBD, and opportunity mapping
 - Product strategy, prioritization, roadmaps, MVPs, PRDs, and acceptance criteria
+- Product execution, product operations, project/program delivery, and academic workflows
 - Generative AI, LLM workflows, RAG concepts, and bounded agent workflows
 - AI evaluation, human review, experimentation, analytics, and instrumentation
 - Quality, trust, cost, latency, and user-outcome trade-offs

@@ -1,5 +1,7 @@
 # AI Learning Platform Metrics
 
+> **Evidence status: CONCEPTUAL LEARNING ARTIFACT.** The metrics and numerical values in this file are planning examples, not measured product results.
+
 ## ⭐ North Star Metric
 
 - Weekly Learning Hours Completed

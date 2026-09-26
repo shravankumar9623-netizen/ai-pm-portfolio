@@ -1,6 +1,6 @@
 # About Shravan Kumar
 
-Shravan Kumar is an AI Product Manager with established experience across product management, EdTech, product operations, and AI-enabled workflow automation.
+Shravan Kumar is an AI Product Manager with 8+ years of experience across product management, EdTech, content strategy, project execution, product operations, and AI-enabled workflow automation.
 
 He works from user and operating problems through product strategy, requirements, workflow and UX design, AI/model decisions, evaluation, analytics, testing, and delivery. His product approach combines human-in-the-loop design, evidence-led iteration, and hands-on technical collaboration.
 

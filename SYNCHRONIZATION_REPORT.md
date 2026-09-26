@@ -26,8 +26,8 @@ Date: 2026-08-19
 
 ## Backups
 
-- Local copy: `C:\Users\ShravanKumar\Desktop\Shravan Kumar\AI-PM-Portfolio-Backups\20260819-180840\local-complete`
-- GitHub mirror: `C:\Users\ShravanKumar\Desktop\Shravan Kumar\AI-PM-Portfolio-Backups\20260819-180840\github-mirror.git`
+- Local copy: `<local-backup-root>/20260819-180840/local-complete`
+- GitHub mirror: `<local-backup-root>/20260819-180840/github-mirror.git`
 - Mirrored pre-sync HEAD: `84514a91a913dbb047b3ab3509aff8f0c240eb52`
 
 ## Validation

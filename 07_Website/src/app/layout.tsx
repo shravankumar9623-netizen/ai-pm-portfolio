@@ -9,7 +9,7 @@ const mono = Geist_Mono({ subsets: ["latin"], variable: "--font-mono" });
 export const metadata: Metadata = {
   metadataBase: new URL("https://ai-pm-portfolio-coral-rho.vercel.app"),
   title: { default: "Shravan Kumar | AI Product Manager", template: "%s | Shravan Kumar" },
-  description: "AI Product Manager building AI products through product strategy, workflow design, evaluation, analytics, automation, and hands-on delivery.",
+  description: "AI Product Manager with 8+ years across product management, EdTech, content strategy, product execution, operations, and AI-enabled workflow automation.",
   keywords: ["AI Product Manager", "AI Product Management", "Product Management", "AI Products", "Product Strategy", "AI Evaluation", "Product Analytics", "Workflow Automation"],
   openGraph: {
     title: "Shravan Kumar | AI Product Manager",

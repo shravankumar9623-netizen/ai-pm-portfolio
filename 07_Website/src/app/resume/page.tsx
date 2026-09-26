@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 
-export const metadata: Metadata = { title: "Resume", description: "M. Shravan Kumar — AI Product Manager with experience across AI products, product strategy, automation, evaluation, analytics, and end-to-end delivery." };
+export const metadata: Metadata = { title: "Resume", description: "M. Shravan Kumar — AI Product Manager with 8+ years across product management, EdTech, content strategy, execution, operations, and AI-enabled workflow automation." };
 
 const products = [
   ["01", "AI Video Solution Generator", "Initiated and led discovery, requirements, workflow and UX, AI/model decisions, evaluation, validation, and implementation contribution."],
@@ -20,8 +20,8 @@ export default function Resume() {
       <section className="resume-layout section">
         <aside><p className="micro-label">Profile</p><h2>Shravan Kumar</h2><p>AI Product Manager</p><div className="resume-meta"><span>Location</span><strong>New Delhi, India</strong><span>Focus</span><strong>AI products · Product strategy · Automation · Analytics · Evaluation</strong><span>Profiles</span><strong><a href="https://www.linkedin.com/in/m-shravan-kumar-5939a4198" target="_blank" rel="noreferrer">LinkedIn ↗</a> · <a href="https://github.com/shravankumar9623-netizen" target="_blank" rel="noreferrer">GitHub ↗</a></strong></div></aside>
         <div className="resume-body">
-          <section><p className="eyebrow">Summary</p><h3>AI Product Manager with established experience across product management, EdTech, operations, and AI-enabled workflow automation.</h3><p>I move from user problems through strategy, requirements, workflow and UX design, AI/model decisions, evaluation, analytics, testing, and delivery.</p></section>
-          <section><p className="eyebrow">Core capabilities</p><div className="skill-cloud">{["AI Product Management", "Product strategy", "Product discovery", "PRDs", "Roadmaps", "Generative AI", "Human-in-the-loop design", "AI evaluation", "Experimentation", "Product analytics", "Workflow automation", "Technical collaboration"].map((skill) => <span key={skill}>{skill}</span>)}</div></section>
+          <section><p className="eyebrow">Summary</p><h3>AI Product Manager with 8+ years across product management, EdTech, content strategy, project execution, product operations, and AI-enabled workflow automation.</h3><p>I translate user and business problems into strategy, requirements, workflows, user stories, acceptance criteria, execution plans, AI/model decisions, evaluation, analytics, testing, and delivery.</p></section>
+          <section><p className="eyebrow">Core capabilities</p><div className="skill-cloud">{["AI Product Management", "Product management", "Product strategy", "Product discovery", "Product execution", "Product operations", "Project/program execution", "Content strategy", "EdTech", "Academic workflows", "Generative AI", "AI evaluation", "Product analytics", "Workflow automation"].map((skill) => <span key={skill}>{skill}</span>)}</div></section>
           <section><p className="eyebrow">Professional experience</p><h3>Product leadership across Physics Wallah, Unacademy, Yami Cosmo Services, and BYJU&apos;S.</h3><p>The downloadable master resume contains the chronology and evidence-safe role summaries without retaining historical metrics that still require validation.</p></section>
           <section><p className="eyebrow">Selected AI products</p>
             {products.map(([number, title, text]) => <div className="resume-project" key={title}><span>{number}</span><div><h3>{title}</h3><p>{text}</p></div></div>)}

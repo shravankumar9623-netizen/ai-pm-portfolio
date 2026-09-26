@@ -1,5 +1,7 @@
 # AI Learning Platform Roadmap
 
+> **Evidence status: CONCEPTUAL LEARNING ARTIFACT.** This roadmap is a practice artifact, not evidence of a launched product, adoption, or business outcomes.
+
 ## Vision
 Empower every learner with personalized, AI-driven education that makes learning engaging, adaptive, and accessible anytime, anywhere.
 

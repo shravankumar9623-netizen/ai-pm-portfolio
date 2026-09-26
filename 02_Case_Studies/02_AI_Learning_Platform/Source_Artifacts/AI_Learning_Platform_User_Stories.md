@@ -1,5 +1,7 @@
 # AI Learning Platform – User Stories
 
+> **Evidence status: CONCEPTUAL LEARNING ARTIFACT.** These practice user stories do not prove production implementation, research, or user outcomes.
+
 ## Persona
 
 ### Student
@@ -27,6 +29,4 @@ Acceptance Criteria
 
 ## User Story 2
 
-...
-
-(Add 5 user stories)
+No additional user stories were completed in this conceptual learning artifact.

@@ -8,11 +8,11 @@ export default function About() {
     <div className="shell">
       <header className="page-head split-head">
         <div><p className="eyebrow">About</p><p className="section-index">Product · AI · Execution</p></div>
-        <div><h1>I turn complex workflows into AI products teams can use and trust.</h1><p className="lede">I’m Shravan Kumar, an AI Product Manager with established experience across product management, EdTech, product operations, and AI-enabled automation.</p></div>
+        <div><h1>I turn complex workflows into AI products teams can use and trust.</h1><p className="lede">I’m Shravan Kumar, an AI Product Manager with 8+ years across product management, EdTech, content strategy, project execution, product operations, and AI-enabled workflow automation.</p></div>
       </header>
       <section className="section about-intro">
         <p className="pull-quote">My work sits between the user problem, the AI system, and the operating reality around both.</p>
-        <div className="body-copy"><p>I initiate products from real user and operational problems, define strategy and requirements, design workflows and interfaces, make AI/model decisions, and own evaluation and validation. I also contribute directly to implementation when it helps validate the product faster.</p><p>My public portfolio separates what is implemented, what I personally owned, and what outcomes remain unverified. Evidence integrity matters more than a larger list of claims.</p></div>
+        <div className="body-copy"><p>I draw on product management, content strategy, academic workflows, product operations, and project/program execution to define strategy and requirements, design workflows and interfaces, make AI/model decisions, and own evaluation and validation. I also contribute directly to implementation when it helps validate the product faster.</p><p>My public portfolio separates what is implemented, what I personally owned, and what outcomes remain unverified. Evidence integrity matters more than a larger list of claims.</p></div>
       </section>
       <section className="section">
         <div className="section-head"><div><p className="eyebrow">My approach</p><p className="section-index">01 / Operating principles</p></div><h2>Clear decisions at every layer.</h2></div>

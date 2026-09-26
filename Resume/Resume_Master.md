@@ -2,15 +2,17 @@
 
 **AI Product Manager**
 
-New Delhi, India | [LinkedIn](https://www.linkedin.com/in/m-shravan-kumar-5939a4198) | [GitHub](https://github.com/shravankumar9623-netizen) | [Portfolio](https://ai-pm-portfolio-coral-rho.vercel.app)
+New Delhi, India | +91 8130206607 | [shravan.kumar9623@gmail.com](mailto:shravan.kumar9623@gmail.com)
+
+[LinkedIn](https://www.linkedin.com/in/m-shravan-kumar-5939a4198) | [GitHub](https://github.com/shravankumar9623-netizen) | [Portfolio](https://ai-pm-portfolio-coral-rho.vercel.app)
 
 ## Executive Summary
 
-AI Product Manager with established experience across product management, EdTech, product operations, and AI-enabled workflow automation. Initiates products from real user and operating problems, defines strategy and requirements, designs human-in-the-loop workflows, and works hands-on across UX, AI/model decisions, evaluation, analytics, testing, and delivery. Brings the product judgment to balance quality, trust, cost, latency, and operational control with the technical fluency to collaborate deeply and contribute to implementation.
+AI Product Manager with 8+ years of experience across product management, EdTech, content strategy, project execution, product operations, and AI-enabled workflow automation. Translates complex business and user problems into product strategy, requirements, workflows, user stories, acceptance criteria, and execution plans. Combines product discovery and cross-functional delivery with hands-on work across UX, AI/model decisions, evaluation, analytics, testing, and implementation.
 
 ## Core AI and Product Capabilities
 
-AI Product Management · Product Strategy · Product Discovery · User Research · Roadmaps and Prioritization · PRDs and Acceptance Criteria · Generative AI and LLM Workflows · Human-in-the-Loop Systems · AI Evaluation · Experimentation · Product Analytics · Workflow Automation · UX Collaboration · Agile Delivery · Stakeholder Management
+AI Product Management · Product Management · Product Strategy · Product Discovery · Product Execution · Product Operations · Project/Program Execution · Content Strategy · EdTech and Academic Workflows · User Research · Roadmaps and Prioritization · PRDs and Acceptance Criteria · Generative AI and LLM Workflows · Human-in-the-Loop Systems · AI Evaluation · Experimentation · Product Analytics · Workflow Automation · UX Collaboration · Agile Delivery · Stakeholder Management
 
 ## Professional Experience
 
@@ -92,7 +94,3 @@ AI Product Management · Product Strategy · Product Discovery · User Research 
 ## Tools and Technical Fluency
 
 Python · TypeScript · React · Next.js · Streamlit · LLM integrations · RAG concepts · APIs · Data workflows · SQL/data modeling · Git/GitHub · Vercel · Figma · Jira · Miro · Microsoft Excel · PowerPoint · Google Workspace
-
-## Evidence Standard
-
-This master resume excludes unvalidated adoption, productivity, cost, retention, revenue, completion, and model-performance figures. Quantified outcomes should be added only after the underlying measurement and disclosure permission are confirmed.
