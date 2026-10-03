@@ -23,7 +23,7 @@ export default function Projects() {
 
         <div className="project-grid">
           {projects.map((project) => (
-            <article className="project-card" id={project.title.toLowerCase().replaceAll(" ", "-")} key={project.title}>
+            <article className={`project-card${project.samples ? " project-card-with-samples" : ""}`} id={project.title.toLowerCase().replaceAll(" ", "-")} key={project.title}>
               <div><p className="micro-label">{project.category}</p><EvidenceBadge label={project.evidence} /></div>
               <h3>{project.title}</h3>
               <p>{project.problem}</p>
@@ -32,7 +32,19 @@ export default function Projects() {
                 {project.highlights.map((highlight) => <li key={highlight}>{highlight}</li>)}
               </ul>
               <div className="decision-mini"><span>What I built or designed</span><strong>{project.contribution}</strong></div>
-              <p className="sample-status">{project.sampleStatus}</p>
+              {project.samples ? (
+                <div className="sample-gallery" aria-label={`${project.title} video samples`}>
+                  {project.samples.map((sample) => (
+                    <figure className="sample-item" key={sample.src}>
+                      <video controls preload="metadata" playsInline poster={sample.poster} aria-label={`${sample.title} video sample`}>
+                        <source src={sample.src} type="video/mp4" />
+                        Your browser does not support embedded MP4 video.
+                      </video>
+                      <figcaption><strong>{sample.title}</strong><span>{sample.description}</span></figcaption>
+                    </figure>
+                  ))}
+                </div>
+              ) : <p className="sample-status">{project.sampleStatus}</p>}
               <small>{project.note}</small>
             </article>
           ))}

@@ -28,6 +28,12 @@ export const projects: Array<{
   note: string;
   highlights: string[];
   sampleStatus: string;
+  samples?: Array<{
+    title: string;
+    description: string;
+    src: string;
+    poster: string;
+  }>;
 }> = [
   {
     category: "Flagship AI product",
@@ -41,7 +47,27 @@ export const projects: Array<{
     workflow: "Source/question paper → AI processing → extraction and solution work → video generation → faculty review → final output",
     note: "Implementation and ownership are supported. Adoption, model-performance, and business-impact metrics are not claimed.",
     highlights: ["7-stage AI workflow", "Human-in-the-loop review", "AI evaluation"],
-    sampleStatus: "Video and UI samples coming soon",
+    sampleStatus: "3 video samples available",
+    samples: [
+      {
+        title: "Laws of Motion - Question 12",
+        description: "Worked physics solution rendered through the educational video workflow.",
+        src: "/samples/ai-video-solution/laws-of-motion-question-12.mp4",
+        poster: "/samples/ai-video-solution/laws-of-motion-question-12.jpg",
+      },
+      {
+        title: "Set Theory - Solution 02",
+        description: "Subset problem presented as a structured, step-by-step video explanation.",
+        src: "/samples/ai-video-solution/set-theory-solution-02.mp4",
+        poster: "/samples/ai-video-solution/set-theory-solution-02.jpg",
+      },
+      {
+        title: "Set Theory - Solution 03",
+        description: "Counting problem presented as a structured, step-by-step video explanation.",
+        src: "/samples/ai-video-solution/set-theory-solution-03.mp4",
+        poster: "/samples/ai-video-solution/set-theory-solution-03.jpg",
+      },
+    ],
   },
   {
     category: "AI video sample",

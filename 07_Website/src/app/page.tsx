@@ -109,7 +109,9 @@ export default function Home() {
                 {project.highlights.map((highlight) => <li key={highlight}>{highlight}</li>)}
               </ul>
               <div className="decision-mini"><span>Key decision</span><strong>{project.decision}</strong></div>
-              <p className="sample-status">{project.sampleStatus}</p>
+              {project.samples
+                ? <Link className="sample-status sample-link" href={`/case-studies#${project.title.toLowerCase().replaceAll(" ", "-")}`}>View {project.samples.length} video samples <span aria-hidden="true">→</span></Link>
+                : <p className="sample-status">{project.sampleStatus}</p>}
               <small>{project.note}</small>
             </article>
           ))}

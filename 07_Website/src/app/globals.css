@@ -123,6 +123,14 @@ h3 { margin-bottom: 10px; font-size: 21px; line-height: 1.2; letter-spacing: -.0
 .decision-mini strong { display: block; margin-top: 8px; font-size: 14px; line-height: 1.5; }
 .sample-status { margin: 16px 0 0; padding: 12px 14px; border: 1px dashed #aab9b1; background: #f4f6f1; color: var(--green) !important; font-family: var(--font-mono); font-size: 10px; font-weight: 750; letter-spacing: .06em; text-transform: uppercase; }
 .project-card small { margin-top: 16px; color: var(--muted); line-height: 1.5; }
+.sample-link { display: flex; justify-content: space-between; align-items: center; text-decoration: none; }
+.project-card-with-samples { grid-column: 1 / -1; }
+.sample-gallery { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; margin-top: 18px; }
+.sample-item { margin: 0; overflow: hidden; border: 1px solid var(--line); background: #edf0e9; }
+.sample-item video { display: block; width: 100%; aspect-ratio: 16 / 9; object-fit: cover; background: var(--dark); }
+.sample-item figcaption { display: grid; gap: 5px; padding: 14px; }
+.sample-item figcaption strong { font-size: 14px; }
+.sample-item figcaption span { color: var(--muted); font-size: 12px; line-height: 1.5; }
 .evidence-badge { display: inline-flex; padding: 7px 9px; border: 1px solid; border-radius: 999px; font-family: var(--font-mono); font-size: 8px; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; white-space: nowrap; }
 .evidence-badge.verified { color: #12653e; background: #e2f6e9; border-color: #9bd2af; }
 .evidence-badge.documented { color: #295b74; background: #e5f2f7; border-color: #a8ccd9; }
@@ -257,6 +265,7 @@ h3 { margin-bottom: 10px; font-size: 21px; line-height: 1.2; letter-spacing: -.0
   .lifecycle-tabs button[aria-selected="true"]::after { display: none; }
   .lifecycle-panel { min-height: 340px; padding: 34px 24px; }
   .project-card { min-height: 420px; padding: 26px; }
+  .sample-gallery { grid-template-columns: 1fr; }
   .section-cta, .direction-section, .direction-section.section, .direction-panel { align-items: flex-start; flex-direction: column; }
   .case-nav, .resume-layout > aside { position: static; }
   .case-nav nav { display: none; }
