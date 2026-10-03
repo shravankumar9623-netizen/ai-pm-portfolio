@@ -32,7 +32,7 @@ export default function About() {
           <article><p className="micro-label">Operational systems</p><h3>Workforce, tagging, and analytics products</h3><p>Role-aware workflows, controlled AI automation, local data processing, editable outputs, explicit permissions, and automated validation across three implementation-backed products.</p></article>
         </div>
       </section>
-      <section className="section direction-panel"><div><p className="eyebrow">Current direction</p><h2>Building and improving AI products through evidence, evaluation, analytics, and iteration.</h2></div><Link className="button" href="/case-studies">See the work <span aria-hidden="true">→</span></Link></section>
+      <section className="section direction-panel"><div><p className="eyebrow">Current direction</p><h2>Building and improving AI products through evidence, evaluation, analytics, and iteration.</h2></div><Link className="button" href="/case-studies">View projects <span aria-hidden="true">→</span></Link></section>
     </div>
   );
 }

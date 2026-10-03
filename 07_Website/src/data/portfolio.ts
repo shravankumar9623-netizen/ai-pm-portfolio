@@ -26,6 +26,8 @@ export const projects: Array<{
   contribution: string;
   workflow: string;
   note: string;
+  highlights: string[];
+  sampleStatus: string;
 }> = [
   {
     category: "Flagship AI product",
@@ -38,6 +40,22 @@ export const projects: Array<{
     contribution: "Initiated the product; owned discovery, requirements, workflow, UX/UI, AI/model decisions, evaluation, and validation; contributed to implementation.",
     workflow: "Source/question paper → AI processing → extraction and solution work → video generation → faculty review → final output",
     note: "Implementation and ownership are supported. Adoption, model-performance, and business-impact metrics are not claimed.",
+    highlights: ["7-stage AI workflow", "Human-in-the-loop review", "AI evaluation"],
+    sampleStatus: "Video and UI samples coming soon",
+  },
+  {
+    category: "AI video sample",
+    title: "Concept-Based AI Videos",
+    role: "AI Product / Product Design",
+    users: "Learners and educators",
+    problem: "Use AI-generated visual storytelling to make educational concepts easier to understand.",
+    decision: "Structure concept explanations as focused visual narratives while preserving content review before publication.",
+    evidence: "User-confirmed product",
+    contribution: "Designed the concept-to-video workflow and product presentation for AI-assisted educational explanations.",
+    workflow: "Concept selection → explanation structure → visual generation → narration and assembly → content review",
+    note: "The workflow is user-confirmed. No public sample, adoption, or outcome metric is currently claimed.",
+    highlights: ["Generative AI", "Visual storytelling", "Educational concepts"],
+    sampleStatus: "Video sample coming soon",
   },
   {
     category: "Operational product",
@@ -50,6 +68,8 @@ export const projects: Array<{
     contribution: "Initiated and defined the product; owned requirements, workflow, UI/UX, data interlinking, AI-related functionality, testing, and validation; contributed to code.",
     workflow: "Authenticate → check in or plan work → track time and tasks → submit or approve → analyze and report",
     note: "Public details are sanitized. No user-count, adoption, cost-saving, or commercial outcome is claimed.",
+    highlights: ["Role-based workflows", "Operations analytics", "Testing and validation"],
+    sampleStatus: "Sanitized product screenshots coming soon",
   },
   {
     category: "Workflow automation",
@@ -62,6 +82,8 @@ export const projects: Array<{
     contribution: "Designed the complete workflow and UI/UX. Local source, packages, guides, and artifacts support implementation; real use and ownership are user-confirmed.",
     workflow: "DOCX/PDF or spreadsheet → parse and propose → validate and preview → dry run → human WRITE approval",
     note: "Exact dates and quantified productivity outcomes are not claimed. Sensitive questions, taxonomy data, credentials, and internal endpoints are excluded.",
+    highlights: ["Controlled taxonomy", "Dry-run validation", "Human write approval"],
+    sampleStatus: "Sanitized workflow sample coming soon",
   },
   {
     category: "Analytics automation",
@@ -74,6 +96,8 @@ export const projects: Array<{
     contribution: "Initiated, designed, and built the Python/Streamlit product, including the workflow, UI/UX, analytics rules, packaging, and validation.",
     workflow: "Spreadsheet → schema confirmation → filters and rules → analytics → editable PowerPoint → validation",
     note: "The implementation is verified. Student data, adoption, and time-saving outcomes are not published.",
+    highlights: ["Python and Streamlit", "Ranking and tie handling", "Editable PowerPoint output"],
+    sampleStatus: "Sanitized output sample coming soon",
   },
 ];
 

@@ -12,7 +12,7 @@ export default function Home() {
           <h1>Building AI products from real problems to <em>delivery.</em></h1>
           <p className="lede">AI Product Manager with 8+ years across product management, EdTech, content strategy, product operations, project execution, and AI-enabled workflow automation.</p>
           <div className="actions">
-            <Link className="button" href="/case-studies">View Case Studies <span aria-hidden="true">↗</span></Link>
+            <Link className="button" href="/case-studies">View Projects <span aria-hidden="true">↗</span></Link>
             <Link className="button secondary" href="/resume">View Resume</Link>
           </div>
           <div className="public-links" aria-label="Professional profiles">
@@ -63,7 +63,7 @@ export default function Home() {
 
       <section className="section shell">
         <div className="section-head">
-          <div><p className="eyebrow">Featured case study</p><p className="section-index">03 / Product judgment</p></div>
+          <div><p className="eyebrow">Featured product</p><p className="section-index">03 / Product judgment</p></div>
           <div><h2>AI Video Solution Generator</h2><p className="section-intro">A faculty-reviewed AI product that moves from approved academic source material to a generated, evaluated, and reviewable video solution.</p></div>
         </div>
         <article className="featured-case">
@@ -71,9 +71,9 @@ export default function Home() {
             <EvidenceBadge label="Verified implementation" />
             <p className="big-statement">Trust is designed into the workflow—not added after generation.</p>
             <p>I initiated the product and owned the workflow, discovery, UX/UI, product decisions, AI/model choices, evaluation, testing, and end-to-end validation. I also contributed directly to implementation; I do not claim sole authorship or unvalidated business impact.</p>
-            <Link className="text-link" href="/case-studies#video-solution">Explore the product decisions <span aria-hidden="true">→</span></Link>
+            <Link className="text-link" href="/case-studies#ai-video-solution-generator">View the product sample <span aria-hidden="true">→</span></Link>
           </div>
-          <div className="decision-flow" aria-label="Case study decision flow">
+          <div className="decision-flow" aria-label="Product decision flow">
             {[
               ["Problem", "Educational video production is a multi-step workflow with quality and review constraints."],
               ["Product decision", "Ground generation in source material and preserve faculty approval before final output."],
@@ -105,12 +105,16 @@ export default function Home() {
               <div><p className="micro-label">{project.category}</p><EvidenceBadge label={project.evidence} /></div>
               <h3>{project.title}</h3><p>{project.problem}</p>
               <p className="project-role"><strong>{project.role}</strong> · {project.users}</p>
+              <ul className="project-tags" aria-label={`${project.title} highlights`}>
+                {project.highlights.map((highlight) => <li key={highlight}>{highlight}</li>)}
+              </ul>
               <div className="decision-mini"><span>Key decision</span><strong>{project.decision}</strong></div>
+              <p className="sample-status">{project.sampleStatus}</p>
               <small>{project.note}</small>
             </article>
           ))}
         </div>
-        <div className="section-cta"><p>See the full problem → decision → evidence view.</p><Link className="button" href="/case-studies">View all case studies <span aria-hidden="true">↗</span></Link></div>
+        <div className="section-cta"><p>Review the products, roles, decisions, and available samples.</p><Link className="button" href="/case-studies">View all projects <span aria-hidden="true">↗</span></Link></div>
       </section>
 
       <section className="closing-section">
