@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import { EvidenceBadge } from "@/components/EvidenceBadge";
 import { projects } from "@/data/portfolio";
 
@@ -23,7 +24,7 @@ export default function Projects() {
 
         <div className="project-grid">
           {projects.map((project) => (
-            <article className={`project-card${project.samples ? " project-card-with-samples" : ""}`} id={project.title.toLowerCase().replaceAll(" ", "-")} key={project.title}>
+            <article className={`project-card${project.samples || project.images ? " project-card-with-samples" : ""}`} id={project.title.toLowerCase().replaceAll(" ", "-")} key={project.title}>
               <div><p className="micro-label">{project.category}</p><EvidenceBadge label={project.evidence} /></div>
               <h3>{project.title}</h3>
               <p>{project.problem}</p>
@@ -44,7 +45,20 @@ export default function Projects() {
                     </figure>
                   ))}
                 </div>
-              ) : <p className="sample-status">{project.sampleStatus}</p>}
+              ) : null}
+              {project.images ? (
+                <div className="image-gallery" aria-label={`${project.title} product screenshots`}>
+                  {project.images.map((sample) => (
+                    <figure className="image-item" key={sample.src}>
+                      <div className="image-frame">
+                        <Image src={sample.src} alt={sample.alt} width={sample.width} height={sample.height} sizes="(max-width: 720px) 100vw, 1120px" />
+                      </div>
+                      <figcaption><strong>{sample.title}</strong><span>{sample.description}</span></figcaption>
+                    </figure>
+                  ))}
+                </div>
+              ) : null}
+              {!project.samples && !project.images ? <p className="sample-status">{project.sampleStatus}</p> : null}
               <small>{project.note}</small>
             </article>
           ))}

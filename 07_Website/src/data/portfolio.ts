@@ -34,6 +34,14 @@ export const projects: Array<{
     src: string;
     poster: string;
   }>;
+  images?: Array<{
+    title: string;
+    description: string;
+    src: string;
+    alt: string;
+    width: number;
+    height: number;
+  }>;
 }> = [
   {
     category: "Flagship AI product",
@@ -95,7 +103,17 @@ export const projects: Array<{
     workflow: "Authenticate → check in or plan work → track time and tasks → submit or approve → analyze and report",
     note: "Public details are sanitized. No user-count, adoption, cost-saving, or commercial outcome is claimed.",
     highlights: ["Role-based workflows", "Operations analytics", "Testing and validation"],
-    sampleStatus: "Sanitized product screenshots coming soon",
+    sampleStatus: "1 sanitized product screenshot available",
+    images: [
+      {
+        title: "Workforce allocation and utilization dashboard",
+        description: "Sanitized interface showing allocation, effort mix, operational insights, capacity, and utilization. Names and internal project labels are redacted; displayed values are demonstration data, not claimed outcomes.",
+        src: "/samples/workforce-operations-platform/workforce-allocation-dashboard-sanitized.png",
+        alt: "Sanitized Workforce Operations Platform dashboard with allocation, effort mix, operational insights, capacity, and utilization panels.",
+        width: 1908,
+        height: 824,
+      },
+    ],
   },
   {
     category: "Workflow automation",
