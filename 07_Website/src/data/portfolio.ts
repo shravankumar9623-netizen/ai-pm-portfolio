@@ -127,7 +127,17 @@ export const projects: Array<{
     workflow: "DOCX/PDF or spreadsheet → parse and propose → validate and preview → dry run → human WRITE approval",
     note: "Exact dates and quantified productivity outcomes are not claimed. Sensitive questions, taxonomy data, credentials, and internal endpoints are excluded.",
     highlights: ["Controlled taxonomy", "Dry-run validation", "Human write approval"],
-    sampleStatus: "Sanitized workflow sample coming soon",
+    sampleStatus: "1 sanitized product screenshot available",
+    images: [
+      {
+        title: "Question ingestion and tagging interface",
+        description: "Sanitized desktop interface showing English and Hindi ingestion, batch tagging, approved tag-list selection, duplicate checking, and output controls. Organization branding and the token workflow are removed; no question data or credentials are shown.",
+        src: "/samples/qpg-tagging-automation/question-ingestion-tagging-interface-sanitized.png",
+        alt: "Sanitized QPG Tagging Automation interface with ingestion, tagging, file-selection, validation, and output controls.",
+        width: 1731,
+        height: 909,
+      },
+    ],
   },
   {
     category: "Analytics automation",
@@ -141,7 +151,17 @@ export const projects: Array<{
     workflow: "Spreadsheet → schema confirmation → filters and rules → analytics → editable PowerPoint → validation",
     note: "The implementation is verified. Student data, adoption, and time-saving outcomes are not published.",
     highlights: ["Python and Streamlit", "Ranking and tie handling", "Editable PowerPoint output"],
-    sampleStatus: "Sanitized output sample coming soon",
+    sampleStatus: "1 sanitized product screenshot available",
+    images: [
+      {
+        title: "Spreadsheet-to-presentation input workflow",
+        description: "Sanitized local application interface showing spreadsheet upload, supported formats, a demo-file option, and automatic column detection. Browser and internal identifiers are removed; no student data is shown.",
+        src: "/samples/leaderboard-generator/spreadsheet-upload-interface-sanitized.png",
+        alt: "Sanitized Leaderboard Generator interface with spreadsheet upload, demo-file option, supported formats, and automatic column detection guidance.",
+        width: 1783,
+        height: 882,
+      },
+    ],
   },
 ];
 
