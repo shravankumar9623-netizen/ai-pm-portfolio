@@ -12,22 +12,23 @@ export default function Home() {
           <h1>Building AI products from real problems to <em>delivery.</em></h1>
           <p className="lede">AI Product Manager with 8+ years across product management, EdTech, content strategy, product operations, project execution, and AI-enabled workflow automation.</p>
           <div className="actions">
-            <Link className="button" href="/case-studies">View Projects <span aria-hidden="true">↗</span></Link>
-            <Link className="button secondary" href="/resume">View Resume</Link>
+            <Link className="button" href="/case-studies">Explore Projects <span aria-hidden="true">↗</span></Link>
+            <Link className="button secondary" href="/about">View Profile</Link>
           </div>
           <div className="public-links" aria-label="Professional profiles">
+            <Link href="/resume">Resume <span aria-hidden="true">→</span></Link>
             <a href="https://www.linkedin.com/in/m-shravan-kumar-5939a4198" target="_blank" rel="noreferrer">LinkedIn <span aria-hidden="true">↗</span></a>
             <a href="https://github.com/shravankumar9623-netizen" target="_blank" rel="noreferrer">GitHub <span aria-hidden="true">↗</span></a>
           </div>
         </div>
-        <div className="hero-system" aria-label="AI product operating system">
-          <div className="system-top"><span>AI PRODUCT OPERATING SYSTEM</span><span className="status-dot">Evidence on</span></div>
+        <div className="hero-system portfolio-guide" aria-label="Portfolio guide">
+          <div className="system-top"><span>PORTFOLIO GUIDE</span><span className="status-dot">Start here</span></div>
           <ol>
-            {["Discover the real workflow", "Define product outcomes", "Design AI + human control", "Build and validate", "Evaluate, measure, iterate"].map((item, index) => (
-              <li key={item}><span>{String(index + 1).padStart(2, "0")}</span>{item}</li>
-            ))}
+            <li><span>01</span><Link href="/about"><strong>Profile</strong><small>Who I am and how I work</small></Link></li>
+            <li><span>02</span><Link href="/case-studies"><strong>Projects</strong><small>Four core products and supporting evidence</small></Link></li>
+            <li><span>03</span><Link href="/resume"><strong>Resume</strong><small>Experience, capabilities, and tools</small></Link></li>
           </ol>
-          <div className="system-footer"><span>Product judgment</span><span>AI evaluation</span><span>Hands-on delivery</span></div>
+          <div className="system-footer"><span>Flagship product</span><Link href="/case-studies#ai-video-solution-generator">AI Video Solution Generator <span aria-hidden="true">→</span></Link></div>
         </div>
       </section>
 

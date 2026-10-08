@@ -16,6 +16,21 @@ export default function Projects() {
         <div><h1>AI products shaped through workflow design, evidence, and execution.</h1><p className="lede">A concise view of what I initiated, designed, built, and validated. Public samples are added only after privacy review.</p></div>
       </header>
 
+      <nav className="project-directory" aria-label="Project directory">
+        <div><p className="eyebrow">Project directory</p><p>Choose a product to review its problem, my role, product decisions, and available evidence.</p></div>
+        <ol>
+          {projects.map((project, index) => (
+            <li key={project.title}>
+              <a href={`#${project.title.toLowerCase().replaceAll(" ", "-")}`}>
+                <span>{String(index + 1).padStart(2, "0")}</span>
+                <strong>{project.title}</strong>
+                <small>{project.category}</small>
+              </a>
+            </li>
+          ))}
+        </ol>
+      </nav>
+
       <section className="section">
         <div className="section-head">
           <div><p className="eyebrow">Selected work</p><p className="section-index">01 / Product portfolio</p></div>

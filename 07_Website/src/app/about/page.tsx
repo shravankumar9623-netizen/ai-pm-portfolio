@@ -7,7 +7,7 @@ export default function About() {
   return (
     <div className="shell">
       <header className="page-head split-head">
-        <div><p className="eyebrow">About</p><p className="section-index">Product · AI · Execution</p></div>
+        <div><p className="eyebrow">Profile</p><p className="section-index">Product · AI · Execution</p></div>
         <div><h1>I turn complex workflows into AI products teams can use and trust.</h1><p className="lede">I’m Shravan Kumar, an AI Product Manager with 8+ years across product management, EdTech, content strategy, project execution, product operations, and AI-enabled workflow automation.</p></div>
       </header>
       <section className="section about-intro">

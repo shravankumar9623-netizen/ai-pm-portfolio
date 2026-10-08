@@ -20,7 +20,7 @@ export const metadata: Metadata = {
 
 export const viewport: Viewport = { width: "device-width", initialScale: 1, themeColor: "#0b1713" };
 
-const links = [["About", "/about"], ["Projects", "/case-studies"], ["Resume", "/resume"], ["Contact", "/contact"]];
+const links = [["Profile", "/about"], ["Projects", "/case-studies"], ["Resume", "/resume"], ["Contact", "/contact"]];
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
