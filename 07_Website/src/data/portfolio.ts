@@ -87,9 +87,29 @@ export const projects: Array<{
     evidence: "User-confirmed product",
     contribution: "Designed the concept-to-video workflow and product presentation for AI-assisted educational explanations.",
     workflow: "Concept selection → explanation structure → visual generation → narration and assembly → content review",
-    note: "The workflow is user-confirmed. No public sample, adoption, or outcome metric is currently claimed.",
+    note: "The workflow and public samples are user-confirmed. No adoption or outcome metric is claimed.",
     highlights: ["Generative AI", "Visual storytelling", "Educational concepts"],
-    sampleStatus: "Video sample coming soon",
+    sampleStatus: "3 video samples available",
+    samples: [
+      {
+        title: "How Leaves Work",
+        description: "AI-assisted visual explanation of a leaf-based educational concept.",
+        src: "/samples/concept-based-ai-videos/leaf.mp4",
+        poster: "/samples/concept-based-ai-videos/leaf.jpg",
+      },
+      {
+        title: "Understanding Temperature",
+        description: "Short AI-generated visual designed to explain temperature through focused storytelling.",
+        src: "/samples/concept-based-ai-videos/temperature.mp4",
+        poster: "/samples/concept-based-ai-videos/temperature.jpg",
+      },
+      {
+        title: "Thunder Explained",
+        description: "Short AI-generated visual introducing the concept of thunder.",
+        src: "/samples/concept-based-ai-videos/thunder.mp4",
+        poster: "/samples/concept-based-ai-videos/thunder.jpg",
+      },
+    ],
   },
   {
     category: "Operational product",
